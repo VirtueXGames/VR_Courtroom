@@ -1,0 +1,1390 @@
+﻿Log file open, 03/12/18 07:04:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Multiplayer_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-837037350) SRandInit(-837037350).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.245843
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.12-13.04.35:075][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.12-13.04.35:075][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.12-13.04.35:092][  0]LogInit: Computer: DESKTOP-EKPT9U8
+[2018.03.12-13.04.35:092][  0]LogInit: User: SamuelJones
+[2018.03.12-13.04.35:092][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.12-13.04.35:092][  0]LogInit: High frequency timer resolution =2.241007 MHz
+[2018.03.12-13.04.35:092][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.12-13.04.35:092][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.12-13.04.35:092][  0]LogMemory: Process Physical Memory: 276.90 MB used, 276.90 MB peak
+[2018.03.12-13.04.35:092][  0]LogMemory: Process Virtual Memory: 272.02 MB used, 272.02 MB peak
+[2018.03.12-13.04.35:092][  0]LogMemory: Physical Memory: 2445.85 MB used,  13876.84 MB free, 16322.68 MB total
+[2018.03.12-13.04.35:092][  0]LogMemory: Virtual Memory: 683.17 MB used,  13876.84 MB free, 134217728.00 MB total
+[2018.03.12-13.04.35:352][  0]LogInit: Using OS detected language (en-US).
+[2018.03.12-13.04.35:352][  0]LogInit: Using OS detected locale (en-GB).
+[2018.03.12-13.04.35:355][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.12-13.04.35:848][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.12-13.04.36:187][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.12-13.04.36:241][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 650M' (Feature Level 11_0)
+[2018.03.12-13.04.36:241][  0]LogD3D11RHI:       484/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.12-13.04.36:245][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.12-13.04.36:245][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.12-13.04.36:245][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.12-13.04.36:249][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.12-13.04.36:249][  0]LogD3D11RHI:     GPU DeviceId: 0xfd5 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.12-13.04.36:249][  0]LogWindows: EnumDisplayDevices:
+[2018.03.12-13.04.36:249][  0]LogWindows:    0. 'NVIDIA GeForce GT 650M' (P:1 D:1)
+[2018.03.12-13.04.36:250][  0]LogWindows:    1. 'NVIDIA GeForce GT 650M' (P:0 D:0)
+[2018.03.12-13.04.36:250][  0]LogWindows:    2. 'NVIDIA GeForce GT 650M' (P:0 D:0)
+[2018.03.12-13.04.36:250][  0]LogWindows:    3. 'NVIDIA GeForce GT 650M' (P:0 D:0)
+[2018.03.12-13.04.36:250][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.12-13.04.36:250][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 650M
+[2018.03.12-13.04.36:250][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.12-13.04.36:250][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.12-13.04.36:250][  0]LogRHI: Texture pool is 339 MB (70% of 484 MB)
+[2018.03.12-13.04.36:288][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.12-13.04.36:302][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.12-13.04.36:304][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Intermediate/Shaders/WorkingDirectory/1828/).
+[2018.03.12-13.04.36:304][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel Jones/AppData/Local/Temp/UnrealShaderWorkingDir/9CD3A74740F61A8391F91F9E3B5672C7/'.
+[2018.03.12-13.04.36:304][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.12-13.04.37:573][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.12-13.04.37:658][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.12-13.04.37:739][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.12-13.04.37:824][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.12-13.04.37:908][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.12-13.04.37:998][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.12-13.04.38:095][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.12-13.04.38:213][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.12-13.04.38:320][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.12-13.04.38:435][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.12-13.04.38:549][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.12-13.04.38:675][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.12-13.04.38:784][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.12-13.04.38:893][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.12-13.04.39:121][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.12-13.04.39:121][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.12-13.04.39:235][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.12-13.04.39:328][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.12-13.04.39:476][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.12-13.04.39:519][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.12-13.04.39:608][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.12-13.04.39:689][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.12-13.04.39:771][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.12-13.04.39:856][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.12-13.04.39:856][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.12-13.04.40:656][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.12-13.04.40:751][  0]LogDerivedDataCache: Loaded boot cache 0.09s 92MB C:/Users/Samuel Jones/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.12-13.04.40:751][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel Jones/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.12-13.04.40:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.12-13.04.40:751][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.12-13.04.40:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.12-13.04.40:751][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.12-13.04.40:769][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.12-13.04.40:782][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel Jones/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.12-13.04.40:796][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.12-13.04.40:796][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.12-13.04.40:797][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.12-13.04.40:797][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.12-13.04.41:359][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.12-13.04.41:886][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.12-13.04.41:955][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.12-13.04.41:955][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.12-13.04.41:955][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.12-13.04.41:955][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.12-13.04.41:955][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.12-13.04.41:995][  0]LogNetVersion: Multiplayer_Project , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1516079218)
+[2018.03.12-13.04.42:234][  0]LogAssetRegistry: FAssetRegistry took 0.0279 seconds to start up
+[2018.03.12-13.04.42:961][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.085624 seconds
+[2018.03.12-13.04.42:968][  0]LogUObjectArray: 35877 objects as part of root set at end of initial load.
+[2018.03.12-13.04.42:968][  0]LogUObjectAllocator: 7577632 out of 0 bytes used by permanent object pool.
+[2018.03.12-13.04.42:968][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.12-13.04.47:014][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.12-13.04.47:080][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.12-13.04.48:170][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.12-13.04.48:878][  0]SourceControl: Source control is disabled
+[2018.03.12-13.04.48:878][  0]SourceControl: Source control is disabled
+[2018.03.12-13.04.48:974][  0]SourceControl: Source control is disabled
+[2018.03.12-13.04.49:066][  0]SourceControl: Source control is disabled
+[2018.03.12-13.04.50:351][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.12-13.04.50:791][  0]LogOcInput: OculusInput pre-init called
+[2018.03.12-13.04.51:258][  0]LogEngine: Initializing Engine...
+[2018.03.12-13.04.51:261][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.12-13.04.51:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.12-13.04.51:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.12-13.04.51:738][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.12-13.04.51:750][  0]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.04.51:775][  0]LogInit: FAudioDevice initialized.
+[2018.03.12-13.04.51:871][  0]LogDerivedDataCache: Saved boot cache 0.10s 92MB C:/Users/Samuel Jones/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.12-13.04.51:891][  0]LogInit: Texture streaming: Enabled
+[2018.03.12-13.04.52:063][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.12-13.04.52:299][  0]LogInit: Transaction tracking system initialized
+[2018.03.12-13.04.52:879][  0]BlueprintLog: New page: Editor Load
+[2018.03.12-13.04.54:453][  0]LocalizationService: Localization service is disabled
+[2018.03.12-13.04.55:758][  0]LogConsoleResponse: Display: 
+[2018.03.12-13.04.56:001][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.12-13.04.56:001][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.12-13.04.56:001][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.12-13.04.56:476][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/' took 0.02s
+[2018.03.12-13.04.58:050][  0]SourceControl: Source control is disabled
+[2018.03.12-13.04.58:050][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.12-13.04.58:051][  0]LightingResults: New page: Lighting Build
+[2018.03.12-13.04.58:122][  0]MapCheck: New page: Map Check
+[2018.03.12-13.04.58:122][  0]LightingResults: New page: Lighting Build
+[2018.03.12-13.04.58:557][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.03.12-13.04.58:558][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.12-13.04.58:571][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.12-13.04.58:641][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.531ms to complete.
+[2018.03.12-13.04.58:641][  0]LogFileHelpers: Loading map 'MainMenu' took 0.591
+[2018.03.12-13.04.58:708][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.12-13.04.58:824][  0]LogCollectionManager: Loaded 0 collections in 0.002622 seconds
+[2018.03.12-13.04.58:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Collections/' took 0.01s
+[2018.03.12-13.04.58:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Developers/SamuelJones/Collections/' took 0.01s
+[2018.03.12-13.04.58:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Collections/' took 0.01s
+[2018.03.12-13.04.58:934][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.12-13.04.58:947][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2365 classes and 522 folders.
+[2018.03.12-13.04.59:058][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.12-13.04.59:114][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.12-13.04.59:185][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.12-13.04.59:268][  0]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.12-13.04.59:271][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.12-13.04.59:279][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.12-13.04.59:419][  0]LogRenderer: Reallocating scene render targets to support 980x444 Format 10 NumSamples 1 (Frame:1).
+[2018.03.12-13.04.59:615][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.12-13.04.59:615][  0]LogLoad: (Engine Initialization) Total time: 28.62 seconds
+[2018.03.12-13.04.59:615][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.12-13.04.59:615][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.12-13.04.59:645][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.12-13.04.59:697][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.12-13.04.59:718][  1]LogAssetRegistry: Asset discovery search completed in 17.5065 seconds
+[2018.03.12-13.04.59:721][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.12-13.04.59:721][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2018.03.12-13.05.05:204][483]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.12-13.05.06:052][483]LogSlate: Took 0.000600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.12-13.05.06:346][483]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.05.06:410][483]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.12-13.05.06:411][483]LightingResults: New page: Lighting Build
+[2018.03.12-13.05.06:413][483]LoadErrors: New page: Loading map: Lobby.umap
+[2018.03.12-13.05.06:414][483]MapCheck: New page: Map Check
+[2018.03.12-13.05.06:414][483]LightingResults: New page: Lighting Build
+[2018.03.12-13.05.06:653][483]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.12-13.05.06:757][483]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.12-13.05.06:962][483]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 205.401ms to complete.
+[2018.03.12-13.05.06:965][483]LogFileHelpers: Loading map 'Lobby' took 0.557
+[2018.03.12-13.05.11:008][609]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 116 classes and 0 folders.
+[2018.03.12-13.05.13:661][609]LogSlate: Took 0.000559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.12-13.05.14:871][648]LogSlate: Took 0.000657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.12-13.05.46:724][851]LogSavePackage: Save=617.96ms
+[2018.03.12-13.05.46:724][851]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Lobby6CC0E8344B44BD1BC312BF9715097D94.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap'
+[2018.03.12-13.05.46:735][851]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap
+[2018.03.12-13.05.46:812][851]LogFileHelpers: Saving map 'Lobby' took 1.034
+[2018.03.12-13.05.57:978][236]LogSavePackage: Save=609.24ms
+[2018.03.12-13.05.57:978][236]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Lobby33FA69774943911DE0318EB8F3DC7646.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap'
+[2018.03.12-13.05.57:988][236]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap
+[2018.03.12-13.05.58:066][236]LogFileHelpers: Saving map 'Lobby' took 1.004
+[2018.03.12-13.07.41:411][549]LogSavePackage: Save=396.59ms
+[2018.03.12-13.07.41:411][549]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyB9312AB846B40036B591B68309B84F56.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap'
+[2018.03.12-13.07.41:422][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap
+[2018.03.12-13.07.41:475][549]LogFileHelpers: Saving map 'Lobby' took 0.675
+[2018.03.12-13.07.50:358][ 13]LogSlate: Took 0.000547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.12-13.08.48:091][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.08.48:271][975]LogSavePackage: Save=130.81ms
+[2018.03.12-13.08.48:271][975]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu617F891C44695EC6CC9E58869278E879.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.08.48:282][975]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.09.10:105][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.09.10:247][776]LogSavePackage: Save=107.31ms
+[2018.03.12-13.09.10:247][776]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu3B3748754156EF8C2113B4AC4BF15830.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.09.10:259][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.09.17:619][967]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.12-13.09.17:800][969]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MultiplayerProject
+[2018.03.12-13.09.17:801][969]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.12-13.09.17:801][969]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.03.12-13.09.17:801][969]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.12-13.09.17:801][969]LogTemp: BranchPath = DESKTOP-EKPT9U8/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-EKPT9U8/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.03.12-13.09.17:841][969]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Samuel Jones\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.12-13.09.26:297][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.09.26:434][303]LogSavePackage: Save=106.79ms
+[2018.03.12-13.09.26:434][303]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu6C47904742382B3CD2F5C781838ED7C1.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.09.26:441][303]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.09.56:156][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.09.56:294][293]LogSavePackage: Save=107.50ms
+[2018.03.12-13.09.56:294][293]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu4760FC1F44F7F0EA48748BA662757688.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.09.56:304][293]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.09.57:222][324]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-13.09.57:277][324]LogBlueprint: Error: [Compiler LobbyMenu] This blueprint (self) is not a InGame_C, therefore ' Target ' must have a connection.
+[2018.03.12-13.09.57:729][324]LogBlueprint: Warning: [Compiler LobbyMenu] [0326.73] Compile of LobbyMenu failed. 1 Fatal Issue(s) 0 Warning(s) [in 507 ms] (/Game/UI/Lobby/LobbyMenu.LobbyMenu)
+[2018.03.12-13.10.21:711][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.10.21:860][207]LogSavePackage: Save=116.17ms
+[2018.03.12-13.10.21:860][207]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu7362344C4B6E447CAFE9B5907CA0FEBB.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.10.21:872][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.13.37:889][ 51]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-13.14.04:208][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.14.04:306][588]LogSavePackage: Save=67.99ms
+[2018.03.12-13.14.04:306][588]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu4B05D7774675C017329D35960444DD43.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.14.04:313][588]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.14.05:945][681]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-13.14.06:833][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.14.06:920][726]LogSavePackage: Save=66.75ms
+[2018.03.12-13.14.06:920][726]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu61ADE34E49E6A4AB78C641A5A3AA0D14.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.14.06:923][726]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.14.15:289][115]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.12-13.14.16:944][205]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.14.17:088][205]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.14.17:088][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.14.17:089][205]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.14.17:089][205]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.14.17:090][205]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.14.17:090][205]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.14.17:090][205]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.03.12-13.14.17:090][205]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.03.12-13.14.17:103][205]PIE: New page: PIE session: Lobby (12 Mar 2018 01:14:17)
+[2018.03.12-13.14.17:121][205]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.14.17:138][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015997s)
+[2018.03.12-13.14.17:139][205]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.14.17:140][205]LogPlayLevel: PIE: World Init took: (0.001632s)
+[2018.03.12-13.14.17:140][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.018308s)
+[2018.03.12-13.14.17:187][205]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.14.17:197][205]LogInit: FAudioDevice initialized.
+[2018.03.12-13.14.17:252][205]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.14.17:255][205]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.14.17
+[2018.03.12-13.14.17:256][205]LogWorld: Bringing up level for play took: 0.002141
+[2018.03.12-13.14.17:481][205]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.03.12-13.14.17:486][205]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 1.377
+[2018.03.12-13.14.17:487][205]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.14.27:694][837]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.14.27:741][837]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.14.27:742][837]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.14.27:743][837]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.14.27:743][837]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.14.27:743][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.14.27:744][837]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.14.27:828][838]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.03.12-13.14.27:828][838]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.15.00:082][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.15.00:218][207]LogSavePackage: Save=104.15ms
+[2018.03.12-13.15.00:218][207]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu48D3850F4B6192AC20A1A8805A134633.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.15.00:228][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.15.02:141][260]LogSlate: Took 0.005429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.03.12-13.15.49:627][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.15.49:804][847]LogSavePackage: Save=141.75ms
+[2018.03.12-13.15.49:805][847]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu62817F80488A7E003CFA058D34FC5A93.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.15.49:815][847]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.16.24:837][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.16.25:013][876]LogSavePackage: Save=143.86ms
+[2018.03.12-13.16.25:013][876]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu465229B14D743F7F8F7125A79CC96BEA.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.16.25:024][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.16.30:374][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.16.30:560][ 66]LogSavePackage: Save=154.83ms
+[2018.03.12-13.16.30:560][ 66]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuDE24610240CF954778660F90DC573A83.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.16.30:573][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.17.02:767][897]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-13.17.05:838][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.17.06:037][991]LogSavePackage: Save=161.01ms
+[2018.03.12-13.17.06:040][991]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu3F2C67E24FA597430CDB678447C70209.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.17.06:050][991]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.17.06:765][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.17.06:966][ 16]LogSavePackage: Save=166.49ms
+[2018.03.12-13.17.06:969][ 16]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu7A65B16C40DCA453DF6D7989C0D74051.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.17.06:975][ 16]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.17.09:198][117]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.17.09:287][117]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.17.09:287][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.17.09:288][117]PIE: New page: PIE session: Lobby (12 Mar 2018 01:17:09)
+[2018.03.12-13.17.09:316][117]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.17.09:338][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022145s)
+[2018.03.12-13.17.09:340][117]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.17.09:340][117]LogPlayLevel: PIE: World Init took: (0.001589s)
+[2018.03.12-13.17.09:341][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.024490s)
+[2018.03.12-13.17.09:403][117]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.17.09:417][117]LogInit: FAudioDevice initialized.
+[2018.03.12-13.17.09:464][117]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.17.09:468][117]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.17.09
+[2018.03.12-13.17.09:468][117]LogWorld: Bringing up level for play took: 0.002328
+[2018.03.12-13.17.09:486][117]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby -0.623
+[2018.03.12-13.17.09:487][117]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.17.12:612][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.17.12:656][262]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.17.12:656][262]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.17.12:657][262]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.17.12:657][262]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.17.12:657][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.17.12:658][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.17.12:787][263]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.03.12-13.17.12:788][263]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.17.14:253][330]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.17.14:304][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.17.14:305][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.17.14:305][330]PIE: New page: PIE session: Lobby (12 Mar 2018 01:17:14)
+[2018.03.12-13.17.14:306][330]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.17.14:326][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019923s)
+[2018.03.12-13.17.14:328][330]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.17.14:328][330]LogPlayLevel: PIE: World Init took: (0.002017s)
+[2018.03.12-13.17.14:329][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.022918s)
+[2018.03.12-13.17.14:395][330]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.17.14:407][330]LogInit: FAudioDevice initialized.
+[2018.03.12-13.17.14:455][330]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.17.14:459][330]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.17.14
+[2018.03.12-13.17.14:460][330]LogWorld: Bringing up level for play took: 0.002415
+[2018.03.12-13.17.14:478][330]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.369
+[2018.03.12-13.17.14:479][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.17.19:105][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.17.19:154][558]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.17.19:154][558]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.17.19:156][558]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.17.19:157][558]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.17.19:157][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.17.19:157][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.17.19:244][559]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.03.12-13.17.19:244][559]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.17.21:532][623]LogSavePackage: Save=612.91ms
+[2018.03.12-13.17.21:532][623]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyA8E6B32F490A2B590AB3AEBE9EF5B8A9.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap'
+[2018.03.12-13.17.21:542][623]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap
+[2018.03.12-13.17.21:629][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2018.03.12-13.17.21:716][623]LogSavePackage: Save=44.94ms
+[2018.03.12-13.17.21:716][623]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Lobby_BuiltData648AA47D4CFBDA96B59DA2B2D71AF236.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset'
+[2018.03.12-13.17.21:721][623]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset
+[2018.03.12-13.18.00:211][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Settings" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset" SILENT=true
+[2018.03.12-13.18.00:307][525]LogSavePackage: Save=49.62ms
+[2018.03.12-13.18.00:307][525]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Settings3DAD902744DBFF0B41AB4ABF069C6299.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset'
+[2018.03.12-13.18.00:317][525]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset
+[2018.03.12-13.18.01:892][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Settings" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset" SILENT=true
+[2018.03.12-13.18.01:960][555]LogSavePackage: Save=40.66ms
+[2018.03.12-13.18.01:960][555]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/SettingsC9BD0F9547A12CA3B5A23BBFB8AD12F1.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset'
+[2018.03.12-13.18.01:964][555]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset
+[2018.03.12-13.18.04:405][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Settings" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset" SILENT=true
+[2018.03.12-13.18.04:478][599]LogSavePackage: Save=43.21ms
+[2018.03.12-13.18.04:478][599]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Settings9A2A889448B3795886BF6EAFD9A94FBD.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset'
+[2018.03.12-13.18.04:482][599]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset
+[2018.03.12-13.18.34:725][385]LogBlueprint: Warning: [Settings] 'NewVar_0' variable not found. Base class was probably changed. /Game/UI/Lobby/Settings.Settings
+[2018.03.12-13.18.34:725][385]LogBlueprint: Warning: [Settings] 'NewVar_0' variable not found. Base class was probably changed. /Game/UI/Lobby/Settings.Settings
+[2018.03.12-13.18.44:166][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Settings" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset" SILENT=true
+[2018.03.12-13.18.44:262][740]LogSavePackage: Save=64.63ms
+[2018.03.12-13.18.44:262][740]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Settings130707D9411AFA0DDC954991835BE9D6.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset'
+[2018.03.12-13.18.44:273][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset
+[2018.03.12-13.19.17:676][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Settings" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset" SILENT=true
+[2018.03.12-13.19.17:804][884]LogSavePackage: Save=89.38ms
+[2018.03.12-13.19.17:804][884]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/SettingsCC7D405548DD3A7994E468A971A17354.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset'
+[2018.03.12-13.19.17:814][884]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset
+[2018.03.12-13.19.28:292][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Settings" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset" SILENT=true
+[2018.03.12-13.19.28:421][256]LogSavePackage: Save=94.13ms
+[2018.03.12-13.19.28:421][256]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Settings0B24F39341BC3462ED70D583554043BE.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset'
+[2018.03.12-13.19.28:433][256]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Settings.uasset
+[2018.03.12-13.19.32:681][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.19.32:879][416]LogSavePackage: Save=154.71ms
+[2018.03.12-13.19.32:882][416]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu91F991234A9D0DB73EA32C9567FE40B1.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.19.32:886][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.19.39:950][648]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.19.40:043][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.19.40:043][648]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.12-13.19.40:062][648]LogPlayLevel: [PlayLevel] Compiling Settings before play...
+[2018.03.12-13.19.40:514][648]LogPlayLevel: PlayLevel: Blueprint regeneration took 471 ms (1 blueprints)
+[2018.03.12-13.19.40:515][648]PIE: New page: PIE session: Lobby (12 Mar 2018 01:19:40)
+[2018.03.12-13.19.40:554][648]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.19.40:574][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020467s)
+[2018.03.12-13.19.40:576][648]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.19.40:576][648]LogPlayLevel: PIE: World Init took: (0.001740s)
+[2018.03.12-13.19.40:577][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.022909s)
+[2018.03.12-13.19.40:638][648]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.19.40:651][648]LogInit: FAudioDevice initialized.
+[2018.03.12-13.19.40:696][648]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.19.40:700][648]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.19.40
+[2018.03.12-13.19.40:700][648]LogWorld: Bringing up level for play took: 0.002317
+[2018.03.12-13.19.40:719][648]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.61
+[2018.03.12-13.19.40:720][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.19.41:519][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.19.41:564][687]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.19.41:565][687]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.19.41:566][687]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.19.41:566][687]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.19.41:566][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.19.41:567][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.19.41:663][688]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.03.12-13.19.41:663][688]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.19.42:898][756]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.19.42:958][756]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.19.42:958][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.19.42:959][756]PIE: New page: PIE session: Lobby (12 Mar 2018 01:19:42)
+[2018.03.12-13.19.42:960][756]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.19.42:980][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020091s)
+[2018.03.12-13.19.42:982][756]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.19.42:983][756]LogPlayLevel: PIE: World Init took: (0.001945s)
+[2018.03.12-13.19.42:983][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.022998s)
+[2018.03.12-13.19.43:047][756]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.19.43:059][756]LogInit: FAudioDevice initialized.
+[2018.03.12-13.19.43:105][756]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.19.43:108][756]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.19.43
+[2018.03.12-13.19.43:109][756]LogWorld: Bringing up level for play took: 0.002264
+[2018.03.12-13.19.43:128][756]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 1.019
+[2018.03.12-13.19.43:129][756]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.19.49:975][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.19.50:040][ 50]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.19.50:040][ 50]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.19.50:041][ 50]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.19.50:041][ 50]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.19.50:041][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.19.50:042][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.19.50:158][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.03.12-13.19.50:158][ 51]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.20.53:861][739]LogBlueprint: Warning: [Transcript] 'NewVar_0' variable not found. Base class was probably changed. /Game/UI/Lobby/Transcript.Transcript
+[2018.03.12-13.20.53:861][739]LogBlueprint: Warning: [Transcript] 'NewVar_0' variable not found. Base class was probably changed. /Game/UI/Lobby/Transcript.Transcript
+[2018.03.12-13.21.05:975][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Transcript" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset" SILENT=true
+[2018.03.12-13.21.06:093][139]LogSavePackage: Save=67.47ms
+[2018.03.12-13.21.06:093][139]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Transcript359DC8C54E734DCF4426D8B97CFBD879.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset'
+[2018.03.12-13.21.06:105][139]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset
+[2018.03.12-13.21.31:863][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Transcript" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset" SILENT=true
+[2018.03.12-13.21.31:987][927]LogSavePackage: Save=87.19ms
+[2018.03.12-13.21.31:987][927]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Transcript5844DCF54639F57D1B6B998B48EA5B78.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset'
+[2018.03.12-13.21.31:997][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset
+[2018.03.12-13.22.17:504][641]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.22.17:571][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.22.17:571][641]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.12-13.22.17:605][641]LogPlayLevel: [PlayLevel] Compiling Transcript before play...
+[2018.03.12-13.22.18:032][641]LogPlayLevel: PlayLevel: Blueprint regeneration took 460 ms (1 blueprints)
+[2018.03.12-13.22.18:033][641]PIE: New page: PIE session: Lobby (12 Mar 2018 01:22:18)
+[2018.03.12-13.22.18:063][641]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.22.18:086][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023452s)
+[2018.03.12-13.22.18:088][641]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.22.18:088][641]LogPlayLevel: PIE: World Init took: (0.001997s)
+[2018.03.12-13.22.18:089][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.026249s)
+[2018.03.12-13.22.18:147][641]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.22.18:160][641]LogInit: FAudioDevice initialized.
+[2018.03.12-13.22.18:210][641]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.22.18:214][641]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.22.18
+[2018.03.12-13.22.18:215][641]LogWorld: Bringing up level for play took: 0.002691
+[2018.03.12-13.22.18:233][641]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.124
+[2018.03.12-13.22.18:234][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.22.30:122][251]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.22.30:171][251]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.22.30:171][251]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.22.30:173][251]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.22.30:173][251]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.22.30:173][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.22.30:174][251]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.22.30:258][252]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.03.12-13.22.30:258][252]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.23.15:751][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Evidence" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset" SILENT=true
+[2018.03.12-13.23.15:850][526]LogSavePackage: Save=55.36ms
+[2018.03.12-13.23.15:850][526]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Evidence7A38EC7545BBD272D60E8B8C72909EA6.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset'
+[2018.03.12-13.23.15:860][526]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset
+[2018.03.12-13.23.20:856][669]LogBlueprint: Warning: [Evidence] 'NewVar_0' variable not found. Base class was probably changed. /Game/UI/Lobby/Evidence.Evidence
+[2018.03.12-13.23.20:856][669]LogBlueprint: Warning: [Evidence] 'NewVar_0' variable not found. Base class was probably changed. /Game/UI/Lobby/Evidence.Evidence
+[2018.03.12-13.23.30:304][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Evidence" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset" SILENT=true
+[2018.03.12-13.23.30:400][973]LogSavePackage: Save=63.90ms
+[2018.03.12-13.23.30:400][973]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Evidence89FA78554C04FDB9B782A2A86675E838.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset'
+[2018.03.12-13.23.30:411][973]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset
+[2018.03.12-13.23.52:506][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Evidence" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset" SILENT=true
+[2018.03.12-13.23.52:623][806]LogSavePackage: Save=83.09ms
+[2018.03.12-13.23.52:624][806]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Evidence652079DF4379B7A13E7217884D081C12.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset'
+[2018.03.12-13.23.52:635][806]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset
+[2018.03.12-13.23.54:448][873]BlueprintLog: New page: Compile Evidence
+[2018.03.12-13.23.57:894][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Evidence" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset" SILENT=true
+[2018.03.12-13.23.58:011][963]LogSavePackage: Save=84.93ms
+[2018.03.12-13.23.58:011][963]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/EvidenceC8B810E04221CCA41AD4FF89E6F6BEBF.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset'
+[2018.03.12-13.23.58:016][963]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset
+[2018.03.12-13.24.14:034][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Evidence" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset" SILENT=true
+[2018.03.12-13.24.14:147][442]LogSavePackage: Save=82.41ms
+[2018.03.12-13.24.14:147][442]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/EvidenceAC4350714B3C44CAA43CAE9329F701DD.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset'
+[2018.03.12-13.24.14:153][442]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset
+[2018.03.12-13.24.14:530][464]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.24.14:613][464]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.24.14:613][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.24.14:613][464]PIE: New page: PIE session: Lobby (12 Mar 2018 01:24:14)
+[2018.03.12-13.24.14:638][464]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.24.14:661][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022697s)
+[2018.03.12-13.24.14:663][464]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.24.14:664][464]LogPlayLevel: PIE: World Init took: (0.002541s)
+[2018.03.12-13.24.14:664][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.026360s)
+[2018.03.12-13.24.14:737][464]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.24.14:749][464]LogInit: FAudioDevice initialized.
+[2018.03.12-13.24.14:796][464]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.24.14:799][464]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.24.14
+[2018.03.12-13.24.14:800][464]LogWorld: Bringing up level for play took: 0.002158
+[2018.03.12-13.24.14:818][464]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.709
+[2018.03.12-13.24.14:819][464]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.24.24:496][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.24.24:540][938]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.24.24:541][938]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.24.24:542][938]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.24.24:542][938]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.24.24:542][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.24.24:543][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.24.24:636][939]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.03.12-13.24.24:636][939]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.24.26:215][993]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.24.26:267][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.24.26:267][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.24.26:268][993]PIE: New page: PIE session: Lobby (12 Mar 2018 01:24:26)
+[2018.03.12-13.24.26:269][993]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.24.26:289][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019458s)
+[2018.03.12-13.24.26:290][993]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.24.26:291][993]LogPlayLevel: PIE: World Init took: (0.001869s)
+[2018.03.12-13.24.26:291][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.022121s)
+[2018.03.12-13.24.26:349][993]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.24.26:361][993]LogInit: FAudioDevice initialized.
+[2018.03.12-13.24.26:403][993]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.24.26:407][993]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.24.26
+[2018.03.12-13.24.26:408][993]LogWorld: Bringing up level for play took: 0.002301
+[2018.03.12-13.24.26:425][993]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.317
+[2018.03.12-13.24.26:426][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.24.33:102][336]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.24.33:149][336]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.24.33:149][336]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.24.33:151][336]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.24.33:151][336]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.24.33:151][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.24.33:152][336]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.24.33:231][337]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.03.12-13.24.33:231][337]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.24.35:850][467]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.24.35:901][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.24.35:901][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.24.35:901][467]PIE: New page: PIE session: Lobby (12 Mar 2018 01:24:35)
+[2018.03.12-13.24.35:903][467]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.24.35:922][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019061s)
+[2018.03.12-13.24.35:923][467]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.24.35:924][467]LogPlayLevel: PIE: World Init took: (0.001618s)
+[2018.03.12-13.24.35:924][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.021469s)
+[2018.03.12-13.24.35:989][467]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.24.36:003][467]LogInit: FAudioDevice initialized.
+[2018.03.12-13.24.36:052][467]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.24.36:056][467]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.24.36
+[2018.03.12-13.24.36:057][467]LogWorld: Bringing up level for play took: 0.002391
+[2018.03.12-13.24.36:075][467]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby -0.034
+[2018.03.12-13.24.36:075][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.24.40:399][679]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.24.40:464][679]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.24.40:465][679]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.24.40:466][679]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.24.40:466][679]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.24.40:467][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.24.40:467][679]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.24.40:546][680]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.03.12-13.24.40:546][680]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.24.55:236][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.24.55:438][145]LogSavePackage: Save=151.45ms
+[2018.03.12-13.24.55:441][145]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu2B2F7DAD48A07B55292F8FA5E0BFFA04.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.24.55:450][145]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.25.08:990][602]BlueprintLog: New page: Compile Transcript
+[2018.03.12-13.25.26:939][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Transcript" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset" SILENT=true
+[2018.03.12-13.25.27:064][174]LogSavePackage: Save=89.38ms
+[2018.03.12-13.25.27:064][174]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Transcript364E621D448C4F0C96798081D580E937.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset'
+[2018.03.12-13.25.27:075][174]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset
+[2018.03.12-13.25.27:839][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Transcript" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset" SILENT=true
+[2018.03.12-13.25.27:954][196]LogSavePackage: Save=83.30ms
+[2018.03.12-13.25.27:954][196]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Transcript2C43215544CCFDAE7734758C8BFFDFC0.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset'
+[2018.03.12-13.25.27:959][196]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset
+[2018.03.12-13.26.01:553][275]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.26.01:669][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.26.01:669][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.26.01:670][275]PIE: New page: PIE session: Lobby (12 Mar 2018 01:26:01)
+[2018.03.12-13.26.01:705][275]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.26.01:725][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019263s)
+[2018.03.12-13.26.01:726][275]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.26.01:726][275]LogPlayLevel: PIE: World Init took: (0.001587s)
+[2018.03.12-13.26.01:727][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.021543s)
+[2018.03.12-13.26.01:796][275]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.26.01:809][275]LogInit: FAudioDevice initialized.
+[2018.03.12-13.26.01:863][275]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.26.01:867][275]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.26.01
+[2018.03.12-13.26.01:868][275]LogWorld: Bringing up level for play took: 0.002420
+[2018.03.12-13.26.01:886][275]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby -0.223
+[2018.03.12-13.26.01:887][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.26.03:134][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.26.03:179][308]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.26.03:180][308]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.26.03:181][308]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.26.03:181][308]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.26.03:181][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.26.03:182][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.26.03:277][309]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2018.03.12-13.26.03:277][309]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.26.05:396][406]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.26.05:462][406]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.26.05:462][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.26.05:463][406]PIE: New page: PIE session: Lobby (12 Mar 2018 01:26:05)
+[2018.03.12-13.26.05:464][406]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.26.05:483][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018989s)
+[2018.03.12-13.26.05:484][406]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.26.05:485][406]LogPlayLevel: PIE: World Init took: (0.001581s)
+[2018.03.12-13.26.05:485][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.021240s)
+[2018.03.12-13.26.05:550][406]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.26.05:562][406]LogInit: FAudioDevice initialized.
+[2018.03.12-13.26.05:610][406]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.26.05:613][406]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.26.05
+[2018.03.12-13.26.05:614][406]LogWorld: Bringing up level for play took: 0.002354
+[2018.03.12-13.26.05:632][406]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby -0.476
+[2018.03.12-13.26.05:633][406]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.26.14:936][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.26.15:001][857]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.26.15:001][857]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.26.15:002][857]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.26.15:003][857]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.26.15:003][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.26.15:003][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.26.15:159][858]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.03.12-13.26.15:159][858]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.26.19:301][ 24]LogSavePackage: Save=635.48ms
+[2018.03.12-13.26.19:301][ 24]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Lobby2FFFE3AD4AA3A8F9F81D488E2137BBD8.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap'
+[2018.03.12-13.26.19:312][ 24]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap
+[2018.03.12-13.26.19:403][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2018.03.12-13.26.19:487][ 24]LogSavePackage: Save=37.71ms
+[2018.03.12-13.26.19:487][ 24]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Lobby_BuiltData4686D7784FEC520A048FB7B2D872BE0B.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset'
+[2018.03.12-13.26.19:492][ 24]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset
+[2018.03.12-13.26.24:981][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Evidence" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset" SILENT=true
+[2018.03.12-13.26.25:098][225]LogSavePackage: Save=83.57ms
+[2018.03.12-13.26.25:098][225]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Evidence46703CAA49C10F8ED726DEA65B5E5131.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset'
+[2018.03.12-13.26.25:108][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Evidence.uasset
+[2018.03.12-13.26.45:585][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.26.45:778][869]LogSavePackage: Save=155.69ms
+[2018.03.12-13.26.45:778][869]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuC63C043F4AD6396EBB8DDAB7D4F0A138.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.26.45:792][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.26.47:579][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.26.47:764][931]LogSavePackage: Save=144.35ms
+[2018.03.12-13.26.47:764][931]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu3B70B01B4910C87D465C21BB03742FFF.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.26.47:768][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.26.49:623][997]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-13.26.50:354][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.26.50:543][ 16]LogSavePackage: Save=155.87ms
+[2018.03.12-13.26.50:543][ 16]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuAC686F0942A0D15E03742BA02DDDE3CE.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.26.50:548][ 16]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.26.52:295][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.26.52:360][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.26.52:360][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.26.52:361][ 68]PIE: New page: PIE session: Lobby (12 Mar 2018 01:26:52)
+[2018.03.12-13.26.52:396][ 68]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.26.52:416][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019697s)
+[2018.03.12-13.26.52:417][ 68]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.26.52:417][ 68]LogPlayLevel: PIE: World Init took: (0.001571s)
+[2018.03.12-13.26.52:418][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.021966s)
+[2018.03.12-13.26.52:482][ 68]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.26.52:494][ 68]LogInit: FAudioDevice initialized.
+[2018.03.12-13.26.52:545][ 68]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.26.52:549][ 68]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.26.52
+[2018.03.12-13.26.52:550][ 68]LogWorld: Bringing up level for play took: 0.002246
+[2018.03.12-13.26.52:570][ 68]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.461
+[2018.03.12-13.26.52:571][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.27.01:865][540]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.27.01:912][540]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.27.01:913][540]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.27.01:914][540]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.27.01:914][540]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.27.01:914][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.27.01:915][540]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.27.01:997][541]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2018.03.12-13.27.01:997][541]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.27.05:593][690]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.12-13.27.06:122][706]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.12-13.27.08:119][791]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.12-13.27.08:925][826]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume4)
+[2018.03.12-13.27.10:564][888]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.03.12-13.27.23:778][388]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.27.23:842][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.27.23:842][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.27.23:843][388]PIE: New page: PIE session: Lobby (12 Mar 2018 01:27:23)
+[2018.03.12-13.27.23:844][388]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.27.23:866][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022133s)
+[2018.03.12-13.27.23:868][388]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.27.23:868][388]LogPlayLevel: PIE: World Init took: (0.001772s)
+[2018.03.12-13.27.23:869][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.024609s)
+[2018.03.12-13.27.23:934][388]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.27.23:947][388]LogInit: FAudioDevice initialized.
+[2018.03.12-13.27.23:991][388]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.27.23:994][388]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.27.23
+[2018.03.12-13.27.23:995][388]LogWorld: Bringing up level for play took: 0.002298
+[2018.03.12-13.27.24:013][388]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby -0.096
+[2018.03.12-13.27.24:013][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.27.33:982][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.27.34:030][915]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.27.34:031][915]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.27.34:032][915]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.27.34:032][915]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.27.34:032][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.27.34:033][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.27.34:119][916]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2018.03.12-13.27.34:119][916]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.27.53:951][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Transcript" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset" SILENT=true
+[2018.03.12-13.27.54:090][563]LogSavePackage: Save=85.99ms
+[2018.03.12-13.27.54:090][563]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Transcript2FEEAB3A4BE94D4D720980AF526E36EA.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset'
+[2018.03.12-13.27.54:096][563]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset
+[2018.03.12-13.28.57:918][377]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-13.28.58:843][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.28.59:043][401]LogSavePackage: Save=166.32ms
+[2018.03.12-13.28.59:045][401]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuFC25402D4DAD9CE7D00CB6A16D9DB5D8.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.28.59:057][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.29.45:788][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Transcript" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset" SILENT=true
+[2018.03.12-13.29.45:909][720]LogSavePackage: Save=84.73ms
+[2018.03.12-13.29.45:910][720]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/TranscriptDD55E4AB4C4336EABA87D285DFCB2388.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset'
+[2018.03.12-13.29.45:921][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset
+[2018.03.12-13.29.50:038][886]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.29.50:126][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.29.50:126][886]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.12-13.29.50:152][886]LogPlayLevel: [PlayLevel] Compiling Transcript before play...
+[2018.03.12-13.29.50:639][886]LogPlayLevel: PlayLevel: Blueprint regeneration took 513 ms (1 blueprints)
+[2018.03.12-13.29.50:640][886]PIE: New page: PIE session: Lobby (12 Mar 2018 01:29:50)
+[2018.03.12-13.29.50:674][886]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.29.50:695][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020752s)
+[2018.03.12-13.29.50:697][886]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.29.50:697][886]LogPlayLevel: PIE: World Init took: (0.001664s)
+[2018.03.12-13.29.50:697][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.023107s)
+[2018.03.12-13.29.50:758][886]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.29.50:770][886]LogInit: FAudioDevice initialized.
+[2018.03.12-13.29.50:822][886]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.29.50:826][886]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.29.50
+[2018.03.12-13.29.50:826][886]LogWorld: Bringing up level for play took: 0.002164
+[2018.03.12-13.29.50:844][886]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.735
+[2018.03.12-13.29.50:845][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.30.00:353][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.30.00:413][352]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.30.00:414][352]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.30.00:415][352]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.30.00:415][352]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.30.00:415][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.30.00:416][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.30.00:663][353]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2018.03.12-13.30.00:663][353]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.30.01:943][413]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.30.02:003][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.30.02:003][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.30.02:004][413]PIE: New page: PIE session: Lobby (12 Mar 2018 01:30:02)
+[2018.03.12-13.30.02:005][413]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.30.02:025][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019754s)
+[2018.03.12-13.30.02:026][413]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.30.02:027][413]LogPlayLevel: PIE: World Init took: (0.001704s)
+[2018.03.12-13.30.02:027][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.022128s)
+[2018.03.12-13.30.02:092][413]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.30.02:103][413]LogInit: FAudioDevice initialized.
+[2018.03.12-13.30.02:148][413]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.30.02:151][413]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.30.02
+[2018.03.12-13.30.02:152][413]LogWorld: Bringing up level for play took: 0.002473
+[2018.03.12-13.30.02:170][413]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.061
+[2018.03.12-13.30.02:171][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.30.05:845][583]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.30.05:890][583]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.30.05:891][583]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.30.05:892][583]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.30.05:892][583]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.30.05:892][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.30.05:893][583]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.30.05:978][584]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2018.03.12-13.30.05:978][584]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.31.18:637][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:638][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:638][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/MainMenu.MainMenu:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:638][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:638][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/ServerMenu.ServerMenu:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:638][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:638][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/AllLevles/LoadingScreen.SKEL_LoadingScreen_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:638][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/MainMenu.SKEL_MainMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:638][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:638][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:638][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/HostMenu.HostMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:638][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:638][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/ServerMenu.ServerMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/Evidence.Evidence:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/Settings.Settings:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_29:LobbyMenu_C_11.WidgetTree_179.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_31:Transcript_C_6.WidgetTree_180.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/Evidence.Evidence_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/Transcript.Transcript_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/Settings.Settings_C:WidgetTree.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_35:Evidence_C_16.WidgetTree_181.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_31:Transcript_C_7.WidgetTree_183.CanvasPanel_0
+[2018.03.12-13.31.18:639][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevles/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_35:Evidence_C_17.WidgetTree_182.CanvasPanel_0
+[2018.03.12-13.31.18:640][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:640][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/MainMenu.MainMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:640][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:640][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/ServerMenu.ServerMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:640][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:640][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/MainMenu.SKEL_MainMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:640][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:640][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:640][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:640][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:640][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:640][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/ServerMenu.ServerMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:641][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/Lobby/Evidence.Evidence:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:641][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/Lobby/Settings.Settings:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:641][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/Lobby/Evidence.Evidence_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:641][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/Lobby/Settings.Settings_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:641][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:641][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Engine/Transient.World_35:Evidence_C_17.WidgetTree_182.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:641][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Engine/Transient.World_35:Evidence_C_16.WidgetTree_181.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:641][  6]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Engine/Transient.World_31:Transcript_C_6.WidgetTree_180.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.12-13.31.18:642][  6]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UI/Lobby/Transcript.Transcript:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (Border /Engine/UMG/Editor/Transient.Border_25).  Import failed...
+[2018.03.12-13.31.18:642][  6]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2018.03.12-13.31.19:271][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Transcript" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset" SILENT=true
+[2018.03.12-13.31.19:397][ 18]LogSavePackage: Save=91.06ms
+[2018.03.12-13.31.19:397][ 18]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Transcript9026589543210C69EA65C881627CFFF4.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset'
+[2018.03.12-13.31.19:409][ 18]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset
+[2018.03.12-13.31.26:042][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Transcript" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset" SILENT=true
+[2018.03.12-13.31.26:131][234]LogSavePackage: Save=61.54ms
+[2018.03.12-13.31.26:131][234]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Transcript4D5D5BD84CB48C83474CC28425C2E062.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset'
+[2018.03.12-13.31.26:140][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset
+[2018.03.12-13.31.32:538][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/Transcript" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset" SILENT=true
+[2018.03.12-13.31.32:659][423]LogSavePackage: Save=81.54ms
+[2018.03.12-13.31.32:660][423]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Transcript55214F964BB4F134A8D1309836D13643.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset'
+[2018.03.12-13.31.32:665][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/Transcript.uasset
+[2018.03.12-13.31.40:840][765]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.31.40:910][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.31.40:910][765]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.12-13.31.40:963][765]LogPlayLevel: [PlayLevel] Compiling Transcript before play...
+[2018.03.12-13.31.41:405][765]LogPlayLevel: PlayLevel: Blueprint regeneration took 494 ms (1 blueprints)
+[2018.03.12-13.31.41:406][765]PIE: New page: PIE session: Lobby (12 Mar 2018 01:31:41)
+[2018.03.12-13.31.41:430][765]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.31.41:450][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019189s)
+[2018.03.12-13.31.41:451][765]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.31.41:452][765]LogPlayLevel: PIE: World Init took: (0.001682s)
+[2018.03.12-13.31.41:452][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.021565s)
+[2018.03.12-13.31.41:516][765]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.31.41:530][765]LogInit: FAudioDevice initialized.
+[2018.03.12-13.31.41:576][765]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.31.41:579][765]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.31.41
+[2018.03.12-13.31.41:580][765]LogWorld: Bringing up level for play took: 0.002278
+[2018.03.12-13.31.41:598][765]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 1.489
+[2018.03.12-13.31.41:599][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.31.54:252][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.31.54:318][342]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.31.54:318][342]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.31.54:319][342]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.31.54:320][342]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.31.54:320][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.31.54:320][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.31.54:419][343]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2018.03.12-13.31.54:419][343]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.31.56:589][428]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.12-13.31.56:655][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.31.56:656][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.12-13.31.56:656][428]PIE: New page: PIE session: Lobby (12 Mar 2018 01:31:56)
+[2018.03.12-13.31.56:658][428]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2018.03.12-13.31.56:680][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022608s)
+[2018.03.12-13.31.56:683][428]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-13.31.56:683][428]LogPlayLevel: PIE: World Init took: (0.002617s)
+[2018.03.12-13.31.56:684][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.026135s)
+[2018.03.12-13.31.56:752][428]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-13.31.56:763][428]LogInit: FAudioDevice initialized.
+[2018.03.12-13.31.56:807][428]LogLoad: Game class is 'LobbyGM_C'
+[2018.03.12-13.31.56:810][428]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2018.03.12-07.31.56
+[2018.03.12-13.31.56:811][428]LogWorld: Bringing up level for play took: 0.002290
+[2018.03.12-13.31.56:829][428]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.72
+[2018.03.12-13.31.56:830][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.32.11:117][ 52]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.32.11:166][ 52]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.32.11:166][ 52]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.32.11:167][ 52]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.32.11:168][ 52]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.32.11:168][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.03.12-13.32.11:168][ 52]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lobby.Lobby:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby' with GeneratedClass '/Game/Maps/Lobby.Lobby_C' with ClassGeneratedBy '/Game/Maps/Lobby.Lobby:PersistentLevel.Lobby'
+[2018.03.12-13.32.11:266][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2018.03.12-13.32.11:266][ 53]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.35.04:465][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-13.35.04:577][104]LogSavePackage: Save=80.69ms
+[2018.03.12-13.35.04:577][104]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu6A7049074914F1BF0C623D96DB54AA0A.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-13.35.04:582][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-13.35.41:005][ 30]LogSavePackage: Save=616.00ms
+[2018.03.12-13.35.41:006][ 30]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Lobby1EC52FD44DD8492F06054598D31C664F.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap'
+[2018.03.12-13.35.41:016][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap
+[2018.03.12-13.35.41:106][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2018.03.12-13.35.41:193][ 30]LogSavePackage: Save=41.92ms
+[2018.03.12-13.35.41:193][ 30]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Lobby_BuiltData82E4A3144947027987FCE9B65A3F0A1A.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset'
+[2018.03.12-13.35.41:197][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset
+[2018.03.12-13.35.43:556][146]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.12-13.35.43:930][147]Cmd: QUIT_EDITOR
+[2018.03.12-13.35.44:333][147]LogExit: Preparing to exit.
+[2018.03.12-13.35.44:720][147]LogDirectoryWatcher: A directory notification for 'C:/Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/' was aborted.
+[2018.03.12-13.35.44:815][147]LogExit: Editor shut down
+[2018.03.12-13.35.44:825][147]LogExit: Transaction tracking system shut down
+[2018.03.12-13.35.44:988][147]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.12-13.35.44:989][147]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/' was aborted.
+[2018.03.12-13.35.44:989][147]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.12-13.35.44:989][147]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.12-13.35.44:989][147]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.12-13.35.44:989][147]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.12-13.35.44:989][147]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.12-13.35.45:209][147]LogExit: Object subsystem successfully closed.
+[2018.03.12-13.35.45:238][147]LogD3D11RHI: Shutdown
+[2018.03.12-13.35.45:238][147]LogD3D11RHI: CleanupD3DDevice
+[2018.03.12-13.35.45:243][147]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.12-13.35.45:301][147]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (560)
+[2018.03.12-13.35.45:301][147]LogModuleManager: Shutting down and abandoning module Voice (558)
+[2018.03.12-13.35.45:301][147]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (556)
+[2018.03.12-13.35.45:301][147]LogModuleManager: Shutting down and abandoning module SequencerWidgets (554)
+[2018.03.12-13.35.45:301][147]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.03.12-13.35.45:301][147]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.03.12-13.35.45:301][147]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.03.12-13.35.45:301][147]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.03.12-13.35.45:302][147]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.12-13.35.45:304][147]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.03.12-13.35.45:304][147]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.03.12-13.35.45:304][147]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.03.12-13.35.45:305][147]LogDirectoryWatcher: A directory notification for 'C:/Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Collections/' was aborted.
+[2018.03.12-13.35.45:305][147]LogDirectoryWatcher: A directory notification for 'C:/Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Developers/SamuelJones/Collections/' was aborted.
+[2018.03.12-13.35.45:305][147]LogDirectoryWatcher: A directory notification for 'C:/Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Collections/' was aborted.
+[2018.03.12-13.35.45:305][147]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.03.12-13.35.45:305][147]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.03.12-13.35.45:305][147]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.03.12-13.35.45:306][147]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.03.12-13.35.45:306][147]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.03.12-13.35.45:306][147]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.03.12-13.35.45:306][147]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.03.12-13.35.45:306][147]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.03.12-13.35.45:306][147]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.03.12-13.35.45:306][147]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.03.12-13.35.45:306][147]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.03.12-13.35.45:306][147]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.03.12-13.35.45:306][147]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.03.12-13.35.45:306][147]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.03.12-13.35.45:306][147]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.03.12-13.35.45:307][147]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.03.12-13.35.45:308][147]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.03.12-13.35.45:308][147]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.03.12-13.35.45:308][147]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.03.12-13.35.45:308][147]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.03.12-13.35.45:308][147]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.03.12-13.35.45:308][147]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.03.12-13.35.45:308][147]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.03.12-13.35.45:308][147]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.03.12-13.35.45:308][147]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.03.12-13.35.45:309][147]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.03.12-13.35.45:309][147]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.03.12-13.35.45:309][147]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.03.12-13.35.45:309][147]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.03.12-13.35.45:713][147]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.03.12-13.35.45:713][147]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.03.12-13.35.45:713][147]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.03.12-13.35.45:713][147]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.03.12-13.35.45:713][147]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.03.12-13.35.45:713][147]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.03.12-13.35.45:713][147]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.03.12-13.35.45:714][147]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.03.12-13.35.45:714][147]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.03.12-13.35.45:714][147]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.03.12-13.35.45:714][147]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.03.12-13.35.45:714][147]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.03.12-13.35.45:714][147]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.03.12-13.35.45:714][147]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.03.12-13.35.45:714][147]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.03.12-13.35.45:714][147]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.03.12-13.35.45:714][147]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.03.12-13.35.45:715][147]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.03.12-13.35.45:715][147]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.03.12-13.35.45:715][147]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.03.12-13.35.45:715][147]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.03.12-13.35.45:715][147]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.03.12-13.35.45:715][147]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.03.12-13.35.45:715][147]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.03.12-13.35.45:770][147]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.03.12-13.35.45:770][147]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.03.12-13.35.45:770][147]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.03.12-13.35.45:770][147]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.03.12-13.35.45:770][147]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.03.12-13.35.45:770][147]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.03.12-13.35.45:771][147]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.03.12-13.35.45:771][147]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.03.12-13.35.45:771][147]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.03.12-13.35.45:771][147]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.03.12-13.35.45:796][147]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.03.12-13.35.45:801][147]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.03.12-13.35.45:801][147]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.03.12-13.35.45:801][147]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.03.12-13.35.45:801][147]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.03.12-13.35.45:801][147]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.03.12-13.35.45:801][147]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.03.12-13.35.45:802][147]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.03.12-13.35.45:802][147]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.03.12-13.35.45:802][147]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.03.12-13.35.45:802][147]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.03.12-13.35.45:802][147]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.03.12-13.35.45:802][147]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.03.12-13.35.45:802][147]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.03.12-13.35.45:802][147]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.03.12-13.35.45:802][147]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.03.12-13.35.45:803][147]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.03.12-13.35.45:803][147]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.03.12-13.35.45:803][147]LogModuleManager: Shutting down and abandoning module DesktopPlatform (352)
+[2018.03.12-13.35.45:803][147]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.03.12-13.35.45:845][147]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.03.12-13.35.45:845][147]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.03.12-13.35.45:845][147]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.03.12-13.35.45:845][147]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.03.12-13.35.45:845][147]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.03.12-13.35.45:845][147]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.03.12-13.35.45:845][147]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2018.03.12-13.35.45:846][147]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2018.03.12-13.35.45:847][147]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2018.03.12-13.35.45:847][147]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2018.03.12-13.35.45:847][147]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2018.03.12-13.35.45:847][147]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2018.03.12-13.35.45:847][147]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2018.03.12-13.35.45:847][147]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2018.03.12-13.35.45:847][147]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2018.03.12-13.35.45:847][147]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2018.03.12-13.35.45:847][147]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2018.03.12-13.35.45:847][147]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2018.03.12-13.35.45:848][147]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2018.03.12-13.35.45:848][147]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2018.03.12-13.35.45:848][147]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2018.03.12-13.35.45:848][147]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2018.03.12-13.35.45:850][147]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2018.03.12-13.35.45:850][147]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2018.03.12-13.35.45:850][147]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2018.03.12-13.35.45:852][147]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (272)
+[2018.03.12-13.35.45:852][147]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (270)
+[2018.03.12-13.35.45:852][147]LogModuleManager: Shutting down and abandoning module PhysXVehicles (268)
+[2018.03.12-13.35.45:852][147]LogModuleManager: Shutting down and abandoning module OculusEditor (266)
+[2018.03.12-13.35.45:852][147]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (264)
+[2018.03.12-13.35.45:852][147]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (262)
+[2018.03.12-13.35.45:852][147]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (260)
+[2018.03.12-13.35.45:852][147]LogModuleManager: Shutting down and abandoning module UdpMessaging (258)
+[2018.03.12-13.35.45:953][147]LogModuleManager: Shutting down and abandoning module TcpMessaging (256)
+[2018.03.12-13.35.46:054][147]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (254)
+[2018.03.12-13.35.46:054][147]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (252)
+[2018.03.12-13.35.46:054][147]LogModuleManager: Shutting down and abandoning module FacialAnimation (250)
+[2018.03.12-13.35.46:054][147]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (248)
+[2018.03.12-13.35.46:054][147]LogModuleManager: Shutting down and abandoning module GraphEditor (247)
+[2018.03.12-13.35.46:054][147]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2018.03.12-13.35.46:057][147]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2018.03.12-13.35.46:057][147]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2018.03.12-13.35.46:057][147]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2018.03.12-13.35.46:057][147]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2018.03.12-13.35.46:061][147]LogModuleManager: Shutting down and abandoning module ImgMedia (234)
+[2018.03.12-13.35.46:061][147]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.03.12-13.35.46:061][147]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.03.12-13.35.46:061][147]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.03.12-13.35.46:062][147]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.03.12-13.35.46:062][147]LogModuleManager: Shutting down and abandoning module Media (225)
+[2018.03.12-13.35.46:069][147]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.03.12-13.35.46:069][147]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.03.12-13.35.46:069][147]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.03.12-13.35.46:069][147]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.03.12-13.35.46:069][147]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.03.12-13.35.46:069][147]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.03.12-13.35.46:069][147]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.03.12-13.35.46:069][147]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.03.12-13.35.46:070][147]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.03.12-13.35.46:070][147]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.03.12-13.35.46:070][147]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.03.12-13.35.46:070][147]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.03.12-13.35.46:070][147]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.03.12-13.35.46:070][147]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.03.12-13.35.46:070][147]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.03.12-13.35.46:070][147]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.03.12-13.35.46:077][147]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.03.12-13.35.46:077][147]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.03.12-13.35.46:077][147]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.03.12-13.35.46:078][147]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.03.12-13.35.46:078][147]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.03.12-13.35.46:078][147]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.03.12-13.35.46:078][147]LogModuleManager: Shutting down and abandoning module LevelSequence (174)
+[2018.03.12-13.35.46:078][147]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (172)
+[2018.03.12-13.35.46:079][147]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2018.03.12-13.35.46:080][147]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2018.03.12-13.35.46:080][147]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2018.03.12-13.35.46:080][147]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2018.03.12-13.35.46:080][147]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2018.03.12-13.35.46:080][147]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2018.03.12-13.35.46:080][147]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2018.03.12-13.35.46:080][147]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2018.03.12-13.35.46:080][147]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.03.12-13.35.46:136][147]LogDerivedDataCache: Shutdown
+[2018.03.12-13.35.46:136][147]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2018.03.12-13.35.46:136][147]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2018.03.12-13.35.46:136][147]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2018.03.12-13.35.46:136][147]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2018.03.12-13.35.46:136][147]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2018.03.12-13.35.46:136][147]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2018.03.12-13.35.46:137][147]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (95)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (93)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (91)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (89)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (87)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (85)
+[2018.03.12-13.35.46:138][147]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (83)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (81)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (79)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (77)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (75)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (73)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2018.03.12-13.35.46:139][147]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2018.03.12-13.35.46:139][147]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.12-13.35.46:140][147]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.12-13.35.46:141][147]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.12-13.35.46:141][147]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.12-13.35.46:141][147]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.12-13.35.46:141][147]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.12-13.35.46:142][147]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.12-13.35.46:142][147]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B77479286-4C9C-99E2-37A5-69AE2F08DF0C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=e84924774c2888b1dc050aa2fec1e71d%7Cab82d8f57509469a8171774633e6e5e6%7C5b5f5390-e609-4ad3-a296-5df869db6483&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.12-13.35.46:168][147]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.12-13.35.46:172][147]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.12-13.35.46:172][147]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.12-13.35.46:172][147]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.12-13.35.46:172][147]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.12-13.35.46:173][147]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.12-13.35.46:173][147]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.12-13.35.46:173][147]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.12-13.35.46:178][147]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.12-13.35.46:178][147]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.12-13.35.46:178][147]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.12-13.35.46:178][147]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.12-13.35.46:178][147]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.12-13.35.46:178][147]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.12-13.35.46:178][147]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.12-13.35.46:178][147]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.12-13.35.46:178][147]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.12-13.35.46:178][147]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.12-13.35.46:178][147]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.12-13.35.46:187][147]LogExit: Exiting.
+[2018.03.12-13.35.46:232][147]Log file closed, 03/12/18 07:35:46

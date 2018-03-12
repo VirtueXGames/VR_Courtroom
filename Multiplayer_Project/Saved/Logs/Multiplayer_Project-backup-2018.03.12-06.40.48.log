@@ -1,0 +1,1225 @@
+﻿Log file open, 03/12/18 06:03:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Multiplayer_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1884102308) SRandInit(1884102308).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.207731
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.12-12.03.19:718][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.12-12.03.19:718][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.12-12.03.19:750][  0]LogInit: Computer: DESKTOP-EKPT9U8
+[2018.03.12-12.03.19:751][  0]LogInit: User: SamuelJones
+[2018.03.12-12.03.19:751][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.12-12.03.19:751][  0]LogInit: High frequency timer resolution =2.241012 MHz
+[2018.03.12-12.03.19:751][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.12-12.03.19:752][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.12-12.03.19:752][  0]LogMemory: Process Physical Memory: 276.77 MB used, 276.77 MB peak
+[2018.03.12-12.03.19:752][  0]LogMemory: Process Virtual Memory: 272.09 MB used, 272.09 MB peak
+[2018.03.12-12.03.19:752][  0]LogMemory: Physical Memory: 3317.66 MB used,  13005.02 MB free, 16322.68 MB total
+[2018.03.12-12.03.19:752][  0]LogMemory: Virtual Memory: 683.17 MB used,  13005.02 MB free, 134217728.00 MB total
+[2018.03.12-12.03.20:032][  0]LogInit: Using OS detected language (en-US).
+[2018.03.12-12.03.20:032][  0]LogInit: Using OS detected locale (en-GB).
+[2018.03.12-12.03.20:035][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.12-12.03.20:510][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.12-12.03.20:865][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.12-12.03.20:920][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 650M' (Feature Level 11_0)
+[2018.03.12-12.03.20:920][  0]LogD3D11RHI:       484/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.12-12.03.20:924][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.12-12.03.20:924][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.12-12.03.20:924][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.12-12.03.20:930][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.12-12.03.20:930][  0]LogD3D11RHI:     GPU DeviceId: 0xfd5 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.12-12.03.20:930][  0]LogWindows: EnumDisplayDevices:
+[2018.03.12-12.03.20:930][  0]LogWindows:    0. 'NVIDIA GeForce GT 650M' (P:1 D:1)
+[2018.03.12-12.03.20:931][  0]LogWindows:    1. 'NVIDIA GeForce GT 650M' (P:0 D:0)
+[2018.03.12-12.03.20:931][  0]LogWindows:    2. 'NVIDIA GeForce GT 650M' (P:0 D:0)
+[2018.03.12-12.03.20:931][  0]LogWindows:    3. 'NVIDIA GeForce GT 650M' (P:0 D:0)
+[2018.03.12-12.03.20:931][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.12-12.03.20:931][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 650M
+[2018.03.12-12.03.20:931][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.12-12.03.20:931][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.12-12.03.20:931][  0]LogRHI: Texture pool is 339 MB (70% of 484 MB)
+[2018.03.12-12.03.20:983][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.12-12.03.21:010][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.12-12.03.21:014][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Intermediate/Shaders/WorkingDirectory/5880/).
+[2018.03.12-12.03.21:014][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel Jones/AppData/Local/Temp/UnrealShaderWorkingDir/45506F024650B9A5E7CA769C387976EA/'.
+[2018.03.12-12.03.21:014][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.12-12.03.22:352][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.12-12.03.22:454][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.12-12.03.22:537][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.12-12.03.22:623][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.12-12.03.22:722][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.12-12.03.22:804][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.12-12.03.22:904][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.12-12.03.22:986][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.12-12.03.23:063][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.12-12.03.23:145][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.12-12.03.23:226][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.12-12.03.23:310][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.12-12.03.23:394][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.12-12.03.23:474][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.12-12.03.23:657][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.12-12.03.23:657][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.12-12.03.23:743][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.12-12.03.23:818][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.12-12.03.23:961][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.12-12.03.24:003][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.12-12.03.24:084][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.12-12.03.24:181][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.12-12.03.24:261][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.12-12.03.24:342][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.12-12.03.24:342][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.12-12.03.25:170][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.12-12.03.25:267][  0]LogDerivedDataCache: Loaded boot cache 0.10s 92MB C:/Users/Samuel Jones/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.12-12.03.25:267][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel Jones/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.12-12.03.25:267][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.12-12.03.25:267][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.12-12.03.25:267][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.12-12.03.25:267][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.12-12.03.25:286][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.12-12.03.25:299][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel Jones/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.12-12.03.25:327][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.12-12.03.25:328][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.12-12.03.25:329][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.12-12.03.25:329][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.12-12.03.25:945][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.12-12.03.26:720][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.12-12.03.26:787][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.12-12.03.26:787][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.12-12.03.26:787][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.12-12.03.26:787][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.12-12.03.26:787][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.12-12.03.26:826][  0]LogNetVersion: Multiplayer_Project , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1516079218)
+[2018.03.12-12.03.27:193][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2018.03.12-12.03.28:460][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.149241 seconds
+[2018.03.12-12.03.28:469][  0]LogUObjectArray: 35877 objects as part of root set at end of initial load.
+[2018.03.12-12.03.28:469][  0]LogUObjectAllocator: 7577632 out of 0 bytes used by permanent object pool.
+[2018.03.12-12.03.28:469][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.12-12.03.33:550][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.12-12.03.33:612][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.12-12.03.34:775][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.12-12.03.35:625][  0]SourceControl: Source control is disabled
+[2018.03.12-12.03.35:625][  0]SourceControl: Source control is disabled
+[2018.03.12-12.03.35:711][  0]SourceControl: Source control is disabled
+[2018.03.12-12.03.35:799][  0]SourceControl: Source control is disabled
+[2018.03.12-12.03.37:275][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.12-12.03.37:731][  0]LogOcInput: OculusInput pre-init called
+[2018.03.12-12.03.38:258][  0]LogEngine: Initializing Engine...
+[2018.03.12-12.03.38:261][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.12-12.03.39:040][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.12-12.03.39:040][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.12-12.03.39:259][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.12-12.03.39:284][  0]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 83))' : 4 channels at 48 kHz using 16 bits per sample (channel mask 0x107)
+[2018.03.12-12.03.39:336][  0]LogInit: FAudioDevice initialized.
+[2018.03.12-12.03.39:482][  0]LogDerivedDataCache: Saved boot cache 0.15s 92MB C:/Users/Samuel Jones/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.12-12.03.39:500][  0]LogInit: Texture streaming: Enabled
+[2018.03.12-12.03.39:702][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.12-12.03.39:953][  0]LogInit: Transaction tracking system initialized
+[2018.03.12-12.03.40:518][  0]BlueprintLog: New page: Editor Load
+[2018.03.12-12.03.42:161][  0]LocalizationService: Localization service is disabled
+[2018.03.12-12.03.44:005][  0]LogConsoleResponse: Display: 
+[2018.03.12-12.03.44:416][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.12-12.03.44:416][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.12-12.03.44:416][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.12-12.03.44:755][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/' took 0.02s
+[2018.03.12-12.03.46:963][  0]SourceControl: Source control is disabled
+[2018.03.12-12.03.46:963][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.12-12.03.46:964][  0]LightingResults: New page: Lighting Build
+[2018.03.12-12.03.47:058][  0]MapCheck: New page: Map Check
+[2018.03.12-12.03.47:059][  0]LightingResults: New page: Lighting Build
+[2018.03.12-12.03.47:587][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.03.12-12.03.47:589][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.12-12.03.47:618][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.12-12.03.47:726][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 107.419ms to complete.
+[2018.03.12-12.03.47:726][  0]LogFileHelpers: Loading map 'MainMenu' took 0.762
+[2018.03.12-12.03.47:825][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.12-12.03.48:000][  0]LogCollectionManager: Loaded 0 collections in 0.002262 seconds
+[2018.03.12-12.03.48:141][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Collections/' took 0.01s
+[2018.03.12-12.03.48:141][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Developers/SamuelJones/Collections/' took 0.01s
+[2018.03.12-12.03.48:141][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Collections/' took 0.01s
+[2018.03.12-12.03.48:141][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.03.12-12.03.48:153][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2365 classes and 522 folders.
+[2018.03.12-12.03.48:259][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.12-12.03.48:345][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.12-12.03.48:415][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.12-12.03.48:596][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.12-12.03.48:596][  0]LogLoad: (Engine Initialization) Total time: 32.73 seconds
+[2018.03.12-12.03.48:596][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.12-12.03.48:596][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.12-12.03.48:626][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.12-12.03.48:628][  0]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.12-12.03.48:631][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.12-12.03.48:637][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.12-12.03.48:759][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.12-12.03.48:832][  2]LogRenderer: Reallocating scene render targets to support 980x348 Format 10 NumSamples 1 (Frame:1).
+[2018.03.12-12.03.48:905][  2]LogAssetRegistry: Asset discovery search completed in 21.7341 seconds
+[2018.03.12-12.03.48:909][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.12-12.03.48:909][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2018.03.12-12.03.49:638][ 61]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.12-12.04.02:697][253]LogRenderer: Reallocating scene render targets to support 980x444 Format 10 NumSamples 1 (Frame:1255).
+[2018.03.12-12.04.04:974][503]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.12-12.04.05:428][503]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.03.12-12.04.06:437][503]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.12-12.04.06:587][504]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.12-12.04.26:616][848]LogEditorTransaction: Undo Add New Function
+[2018.03.12-12.04.29:457][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.04.29:533][ 21]LogSavePackage: Save=57.61ms
+[2018.03.12-12.04.29:533][ 21]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuF0048B284F14FA01A14E359453D553F8.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.04.29:538][ 21]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.04.51:806][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.04.51:873][446]LogSavePackage: Save=53.75ms
+[2018.03.12-12.04.51:873][446]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuBFDB31414BC302CC9F5635997ED3778B.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.04.51:879][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.04.52:256][472]Cmd: TRANSACTION UNDO
+[2018.03.12-12.04.52:256][472]LogEditorTransaction: Undo Add Node
+[2018.03.12-12.05.13:027][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.05.13:125][670]LogSavePackage: Save=68.25ms
+[2018.03.12-12.05.13:125][670]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu5B60E11144CB60F3DBB1979FB292E87E.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.05.13:132][670]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.05.37:538][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.05.37:618][ 59]LogSavePackage: Save=64.31ms
+[2018.03.12-12.05.37:619][ 59]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuDC333739478A65CB7E6461915523FC52.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.05.37:626][ 59]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.05.39:611][159]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.03.12-12.05.39:619][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:620][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:620][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:620][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:620][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:620][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:621][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:621][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:621][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:621][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:621][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:622][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:622][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:622][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:622][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:622][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:623][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:623][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:623][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:623][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:623][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:624][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:624][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:624][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:624][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:624][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:625][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:625][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:625][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:625][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:625][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:626][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:626][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:626][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:626][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:626][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:627][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:627][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:627][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:627][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:627][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:628][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:628][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:628][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:628][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:628][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:629][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:629][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:629][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:629][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:629][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:630][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:630][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:630][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:634][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:634][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:637][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:637][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:637][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:638][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:638][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:638][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:638][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:638][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:639][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:639][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:639][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:639][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:640][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:640][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:641][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:641][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:642][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:642][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:642][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:642][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:648][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:748][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:749][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:749][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:769][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:769][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:791][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:799][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:842][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:843][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:843][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:848][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:852][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:852][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:867][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:953][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:954][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:954][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.39:993][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:000][159]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:637][185]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.03.12-12.05.40:646][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:646][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:646][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:647][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:647][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:647][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:647][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:648][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:648][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:648][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:648][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:649][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:649][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:649][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:649][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:650][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:650][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:650][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:650][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:650][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:651][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:651][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:651][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:651][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:651][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:652][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:652][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:652][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:652][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:652][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:653][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:653][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:653][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:653][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:653][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:654][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:654][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:654][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:654][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:654][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:655][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:655][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:655][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:655][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:655][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:656][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:656][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:656][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:656][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:656][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:657][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:657][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:657][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:657][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:661][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:661][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:664][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:664][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:664][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:664][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:665][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:665][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:665][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:665][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:665][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:666][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:666][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:666][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:666][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:666][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:668][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:668][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:668][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:668][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:669][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:669][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:675][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:793][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:793][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:794][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:818][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:818][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:839][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:850][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:896][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:896][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:897][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:901][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:903][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:903][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:914][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:995][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:996][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.40:996][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.41:031][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.05.41:034][185]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.06.00:914][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/InGame" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset" SILENT=true
+[2018.03.12-12.06.01:049][171]LogSavePackage: Save=111.58ms
+[2018.03.12-12.06.01:049][171]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/InGameF56D272E4C6044660F6A0A88F794711D.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset'
+[2018.03.12-12.06.01:053][171]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset
+[2018.03.12-12.06.27:411][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.06.27:493][609]LogSavePackage: Save=64.51ms
+[2018.03.12-12.06.27:493][609]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu380A6AE748596B0C2DB4478C7A27DF0E.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.06.27:500][609]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.06.37:385][ 96]LogAIModule: Creating AISystem for world Lobby
+[2018.03.12-12.06.37:486][ 96]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.12-12.06.37:486][ 96]LightingResults: New page: Lighting Build
+[2018.03.12-12.06.37:488][ 96]LoadErrors: New page: Loading map: Lobby.umap
+[2018.03.12-12.06.37:489][ 96]MapCheck: New page: Map Check
+[2018.03.12-12.06.37:489][ 96]LightingResults: New page: Lighting Build
+[2018.03.12-12.06.37:728][ 96]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.12-12.06.37:877][ 96]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.12-12.06.38:039][ 96]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 161.855ms to complete.
+[2018.03.12-12.06.38:041][ 96]LogFileHelpers: Loading map 'Lobby' took 0.558
+[2018.03.12-12.06.38:044][ 96]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.12-12.06.44:708][333]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.12-12.06.44:814][334]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MultiplayerProject
+[2018.03.12-12.06.44:814][334]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.12-12.06.44:814][334]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.03.12-12.06.44:815][334]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.12-12.06.44:848][335]LogTemp: BranchPath = DESKTOP-EKPT9U8/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-EKPT9U8/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.03.12-12.06.44:879][336]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Samuel Jones\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.12-12.06.57:270][859]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.12-12.07.10:193][374]LogSavePackage: Save=492.80ms
+[2018.03.12-12.07.10:193][374]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Lobby6AFD6834451BE30FB6F201A8675A2E38.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap'
+[2018.03.12-12.07.10:200][374]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap
+[2018.03.12-12.07.10:306][374]LogFileHelpers: Saving map 'Lobby' took 0.886
+[2018.03.12-12.07.13:796][466]LogSavePackage: Save=445.70ms
+[2018.03.12-12.07.13:796][466]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyA6FCE30145AB7EC3A6126DB8104D6FC9.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap'
+[2018.03.12-12.07.13:804][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap
+[2018.03.12-12.07.13:880][466]LogFileHelpers: Saving map 'Lobby' took 0.774
+[2018.03.12-12.08.31:420][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/InGame" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset" SILENT=true
+[2018.03.12-12.08.31:625][904]LogSavePackage: Save=182.21ms
+[2018.03.12-12.08.31:628][904]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/InGame3783036149BEEA42009376B3939673FA.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset'
+[2018.03.12-12.08.31:632][904]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset
+[2018.03.12-12.08.50:556][983]LogBlueprint: Warning: [GameInfoInstance] 'TranscriptZ' variable not found. Base class was probably changed. /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance
+[2018.03.12-12.08.50:557][983]LogBlueprint: Warning: [GameInfoInstance] 'TranscriptZ' variable not found. Base class was probably changed. /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance
+[2018.03.12-12.08.50:557][983]LogBlueprint: Warning: [GameInfoInstance] 'TranscriptZ' variable not found. Base class was probably changed. /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance
+[2018.03.12-12.08.50:557][983]LogBlueprint: Warning: [GameInfoInstance] 'TranscriptZ' variable not found. Base class was probably changed. /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance
+[2018.03.12-12.08.50:557][983]LogBlueprint: Warning: [GameInfoInstance] 'TranscriptZ' variable not found. Base class was probably changed. /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance
+[2018.03.12-12.08.54:373][354]BlueprintLog: New page: Compile GameInfoInstance
+[2018.03.12-12.08.54:610][354]LogBlueprint: Warning: [Compiler GameInfoInstance] Could not find a variable named "TranscriptZ" in 'GameInfoInstance_C'.
+Make sure 'GameInfoInstance_C' has been compiled for  Set TranscriptZ
+[2018.03.12-12.08.54:611][354]LogBlueprint: Warning: [Compiler GameInfoInstance] Could not find a variable named "TranscriptZ" in 'GameInfoInstance_C'.
+Make sure 'GameInfoInstance_C' has been compiled for  Get TranscriptZ
+[2018.03.12-12.08.54:611][354]LogBlueprint: Warning: [Compiler GameInfoInstance] Could not find a variable named "TranscriptZ" in 'GameInfoInstance_C'.
+Make sure 'GameInfoInstance_C' has been compiled for  Get TranscriptZ
+[2018.03.12-12.08.54:611][354]LogBlueprint: Warning: [Compiler GameInfoInstance] Could not find a variable named "TranscriptZ" in 'GameInfoInstance_C'.
+Make sure 'GameInfoInstance_C' has been compiled for  Get TranscriptZ
+[2018.03.12-12.08.54:666][354]LogBlueprint: Error: [Compiler GameInfoInstance] The property associated with  Transcript Z  could not be found
+[2018.03.12-12.08.54:666][354]LogBlueprint: Error: [Compiler GameInfoInstance] The property associated with  Transcript Z  could not be found
+[2018.03.12-12.08.54:667][354]LogBlueprint: Error: [Compiler GameInfoInstance] The property associated with  Transcript Z  could not be found
+[2018.03.12-12.08.54:667][354]LogBlueprint: Error: [Compiler GameInfoInstance] The property associated with  Transcript Z  could not be found
+[2018.03.12-12.08.54:781][354]LogBlueprint: Warning: [Compiler GameInfoInstance] [0338.92] Compile of GameInfoInstance failed. 4 Fatal Issue(s) 4 Warning(s) [in 407 ms] (/Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance)
+[2018.03.12-12.09.39:452][759]LogSavePackage: Save=148.53ms
+[2018.03.12-12.09.39:452][759]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/GameInfoInstanceFCC5FDC44D923BC8BBEA548D57A1ED43.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2018.03.12-12.09.39:457][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2018.03.12-12.09.48:338][680]LogEditorTransaction: Undo Create Pin Link
+[2018.03.12-12.09.48:934][721]LogEditorTransaction: Undo Delete current selection
+[2018.03.12-12.10.00:635][850]LogSavePackage: Save=154.86ms
+[2018.03.12-12.10.00:635][850]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/GameInfoInstance18C85A8E4D42E30836BB478572866B73.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2018.03.12-12.10.00:640][850]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2018.03.12-12.10.02:081][988]BlueprintLog: New page: Compile GameInfoInstance
+[2018.03.12-12.10.03:951][114]LogSavePackage: Save=176.75ms
+[2018.03.12-12.10.03:951][114]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/GameInfoInstance4E9B476C4F65CF360C41DA9DDB439BAF.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2018.03.12-12.10.03:954][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2018.03.12-12.10.20:434][135]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.03.12-12.10.20:440][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:441][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:441][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:441][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:441][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:441][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:442][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:442][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:442][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:442][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:442][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:443][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:443][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:443][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:443][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:443][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:444][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:444][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:444][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:444][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:444][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:445][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:445][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:445][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:445][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:445][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:446][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:446][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:446][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:446][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:447][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:447][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:447][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:447][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:447][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:448][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:448][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:448][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:448][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:448][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:449][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:449][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:449][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:449][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:449][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:450][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:450][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:450][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:450][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:451][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:451][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:451][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:451][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:451][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:465][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:465][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:468][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:468][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:468][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:468][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:468][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:468][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:469][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:469][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:469][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:469][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:469][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:469][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:470][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:470][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:471][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:471][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:471][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:471][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:471][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:472][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:476][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:569][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:569][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:569][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:586][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:587][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:598][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:605][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:628][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:629][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:629][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:631][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:633][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:633][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:643][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:735][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:735][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:735][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:772][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.20:776][135]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.10.25:122][384]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.12-12.10.53:089][878]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.12-12.10.53:113][878]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/UI/Lobby/LobbyMenu.LobbyMenu from UserWidget to GameplayChat_C...
+[2018.03.12-12.10.53:131][878]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.10.54:230][920]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.12-12.10.58:056][987]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/UI/Lobby/LobbyMenu.LobbyMenu from GameplayChat_C to UserWidget...
+[2018.03.12-12.10.58:069][987]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.11.05:128][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.11.05:265][386]LogSavePackage: Save=95.47ms
+[2018.03.12-12.11.05:265][386]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu013799364DD6CBDB655173A328DD82DD.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.11.05:274][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.11.13:363][640]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.12-12.11.33:155][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/InGame" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset" SILENT=true
+[2018.03.12-12.11.33:364][496]LogSavePackage: Save=174.53ms
+[2018.03.12-12.11.33:365][496]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/InGame4F7C5BDF403CD8E5DB1FB9A78EC3AFBA.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset'
+[2018.03.12-12.11.33:372][496]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset
+[2018.03.12-12.11.48:832][ 74]LogSlate: Took 0.006070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.03.12-12.12.21:510][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.12.21:634][517]LogSavePackage: Save=98.58ms
+[2018.03.12-12.12.21:634][517]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu7BA23EEE4826B8A3F4B57294FD81B076.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.12.21:643][517]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.12.22:541][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.12.22:680][552]LogSavePackage: Save=112.57ms
+[2018.03.12-12.12.22:680][552]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuD29319C047AD62CBE7C693BA5350127F.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.12.22:686][552]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.12.23:317][575]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.12.41:081][383]LogSavePackage: Save=647.71ms
+[2018.03.12-12.12.41:081][383]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Lobby79409C9449C9F265DC1A20AC7532B7C1.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap'
+[2018.03.12-12.12.41:093][383]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap
+[2018.03.12-12.12.41:217][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2018.03.12-12.12.41:308][383]LogSavePackage: Save=46.85ms
+[2018.03.12-12.12.41:308][383]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Lobby_BuiltDataFA23F66F48930F381C4F84A6C91E695C.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset'
+[2018.03.12-12.12.41:313][383]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset
+[2018.03.12-12.12.46:519][600]LogSavePackage: Save=577.20ms
+[2018.03.12-12.12.46:520][600]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyFA06319041C01BB04750BDB868066C82.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap'
+[2018.03.12-12.12.46:529][600]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby.umap
+[2018.03.12-12.12.46:648][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2018.03.12-12.12.46:706][600]LogSavePackage: Save=33.99ms
+[2018.03.12-12.12.46:706][600]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Lobby_BuiltData2C9FF1B144880D7E39826DA1DCA94027.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset'
+[2018.03.12-12.12.46:710][600]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Maps/Lobby_BuiltData.uasset
+[2018.03.12-12.12.55:406][ 39]LogSavePackage: Save=270.41ms
+[2018.03.12-12.12.55:406][ 39]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/GameInfoInstance718AC0104BF1F0E56AC977B5F88111C6.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2018.03.12-12.12.55:410][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2018.03.12-12.13.40:584][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.13.40:732][577]LogSavePackage: Save=120.71ms
+[2018.03.12-12.13.40:732][577]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu0CD567664A5E000B9C7E869B0E34E643.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.13.40:741][577]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.13.57:314][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/InGame" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset" SILENT=true
+[2018.03.12-12.13.57:508][236]LogSavePackage: Save=170.30ms
+[2018.03.12-12.13.57:508][236]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/InGame607261F8420ED8E19107E8BF86186CB5.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset'
+[2018.03.12-12.13.57:519][236]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset
+[2018.03.12-12.14.00:448][323]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.12-12.14.44:890][424]LogSlate: Took 0.009400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.12-12.15.46:249][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.15.46:385][136]LogSavePackage: Save=107.99ms
+[2018.03.12-12.15.46:385][136]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuFC7FEA064105CAC04F8DCB8FBC541F81.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.15.46:394][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.15.57:886][529]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.15.57:938][529]LogBlueprint: Error: [Compiler LobbyMenu] This blueprint (self) is not a InGame_C, therefore ' Target ' must have a connection.
+[2018.03.12-12.15.58:004][529]LogBlueprint: Warning: [Compiler LobbyMenu] [0762.14] Compile of LobbyMenu failed. 1 Fatal Issue(s) 0 Warning(s) [in 117 ms] (/Game/UI/Lobby/LobbyMenu.LobbyMenu)
+[2018.03.12-12.15.58:861][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.15.58:984][561]LogSavePackage: Save=99.40ms
+[2018.03.12-12.15.58:984][561]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu715CE2264F25AC0815ADD8A1FC29301A.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.15.58:988][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.17.29:307][465]LogEditorTransaction: Undo Delete current selection
+[2018.03.12-12.18.01:154][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.18.01:282][ 82]LogSavePackage: Save=88.95ms
+[2018.03.12-12.18.01:282][ 82]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuE63BF1DF4FDFA90D2297D39D4B9D355C.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.18.01:290][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.19.36:870][443]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetGameInstance' [Element not found.]
+[2018.03.12-12.19.41:409][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.19.41:551][595]LogSavePackage: Save=111.77ms
+[2018.03.12-12.19.41:551][595]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu067DCF5F47341325869740A6BB22DF3D.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.19.41:562][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.19.42:205][616]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.19.42:280][616]LogBlueprint: Error: [Compiler LobbyMenu] This blueprint (self) is not a InGame_C, therefore ' Target ' must have a connection.
+[2018.03.12-12.19.42:359][616]LogBlueprint: Warning: [Compiler LobbyMenu] [0986.50] Compile of LobbyMenu failed. 1 Fatal Issue(s) 0 Warning(s) [in 153 ms] (/Game/UI/Lobby/LobbyMenu.LobbyMenu)
+[2018.03.12-12.21.11:405][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.21.11:563][118]LogSavePackage: Save=122.02ms
+[2018.03.12-12.21.11:563][118]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuED2185454E34EBFFDD6F0EA2C23DBBD5.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.21.11:575][118]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.21.12:122][133]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.21.12:166][133]LogBlueprint: Error: [Compiler LobbyMenu] This blueprint (self) is not a InGame_C, therefore ' Target ' must have a connection.
+[2018.03.12-12.21.12:238][133]LogBlueprint: Warning: [Compiler LobbyMenu] [1076.38] Compile of LobbyMenu failed. 1 Fatal Issue(s) 0 Warning(s) [in 116 ms] (/Game/UI/Lobby/LobbyMenu.LobbyMenu)
+[2018.03.12-12.21.34:044][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.21.34:195][823]LogSavePackage: Save=121.60ms
+[2018.03.12-12.21.34:195][823]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu964D68FA4D8F43326D329FAE2806E44E.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.21.34:208][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.21.35:356][860]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.21.35:397][860]LogBlueprint: Error: [Compiler LobbyMenu] This blueprint (self) is not a InGame_C, therefore ' Target ' must have a connection.
+[2018.03.12-12.21.35:469][860]LogBlueprint: Warning: [Compiler LobbyMenu] [1099.61] Compile of LobbyMenu failed. 1 Fatal Issue(s) 0 Warning(s) [in 112 ms] (/Game/UI/Lobby/LobbyMenu.LobbyMenu)
+[2018.03.12-12.22.46:666][371]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.034
+[2018.03.12-12.22.46:668][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2018.03.12-12.22.46:668][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2018.03.12-12.22.46:729][371]LogSavePackage: Save=48.93ms
+[2018.03.12-12.22.46:729][371]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu_Auto1EBB805CC437C60BB3888AE915DFEBDE8.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto1.uasset'
+[2018.03.12-12.22.46:732][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto1.uasset
+[2018.03.12-12.22.46:732][371]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.03.12-12.23.34:584][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.23.34:647][652]LogSavePackage: Save=43.72ms
+[2018.03.12-12.23.34:647][652]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu81844C304BD55542CF4BAE8BB89B8CCD.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.23.34:652][652]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.23.37:451][810]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.03.12-12.23.37:455][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:455][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:455][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:455][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:455][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:455][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:455][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:456][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:456][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:456][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:456][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:456][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:456][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:456][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:456][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:456][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:457][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:457][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:457][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:457][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:457][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:457][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:457][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:457][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:458][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:458][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:458][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:458][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:458][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:458][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:458][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:458][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:458][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:459][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:459][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:459][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:459][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:459][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:459][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:459][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:459][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:460][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:460][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:460][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:460][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:460][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:460][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:460][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:460][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:461][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:461][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:461][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:461][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:461][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:473][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:474][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:475][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:475][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:476][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:476][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:476][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:476][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:476][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:476][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:476][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:477][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:477][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:477][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:477][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:477][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:478][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:478][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:478][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:478][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:478][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:478][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:482][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:587][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:587][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:588][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:611][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:612][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:634][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:643][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:683][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:683][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:683][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:689][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:693][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:694][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:696][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:782][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:783][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:783][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:815][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.37:837][810]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.23.38:550][837]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.12-12.23.58:376][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/InGame" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset" SILENT=true
+[2018.03.12-12.23.58:473][919]LogSavePackage: Save=78.98ms
+[2018.03.12-12.23.58:473][919]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/InGameDDC64C1F4A39CCC7B68BAAA86E018623.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset'
+[2018.03.12-12.23.58:475][919]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset
+[2018.03.12-12.23.59:485][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/InGame" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset" SILENT=true
+[2018.03.12-12.23.59:575][971]LogSavePackage: Save=78.58ms
+[2018.03.12-12.23.59:575][971]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/InGame5D4A01814ED79AF3C52DD78238626DB1.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset'
+[2018.03.12-12.23.59:578][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/InGame.uasset
+[2018.03.12-12.24.39:295][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.24.39:426][888]LogSavePackage: Save=102.44ms
+[2018.03.12-12.24.39:426][888]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuAE6B6B5C48C0C4774CA00180E470E72D.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.24.39:439][888]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.25.24:438][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.25.24:583][262]LogSavePackage: Save=117.37ms
+[2018.03.12-12.25.24:583][262]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuA204E4834A1136740B69CFBAC66E28F4.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.25.24:593][262]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.27.57:371][859]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.28.34:973][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.28.35:151][389]LogSavePackage: Save=128.05ms
+[2018.03.12-12.28.35:151][389]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu2AFF944B4A22A9FB86BB9F9377D9BFF4.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.28.35:162][389]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.29.27:785][772]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.03.12-12.29.27:793][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:794][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:794][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:795][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:795][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:795][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:796][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:796][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:796][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:796][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:797][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:797][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:798][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:798][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:798][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:799][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:799][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:800][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:800][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:801][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:801][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:801][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:802][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:802][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:803][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:803][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:803][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:804][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:804][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:805][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:805][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:806][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:806][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:806][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:807][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:807][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:808][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:808][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:808][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:809][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:809][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:810][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:810][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:810][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:811][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:811][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:812][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:812][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:812][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:813][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:813][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:814][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:814][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:815][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:831][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:831][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:836][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:837][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:837][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:837][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:838][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:838][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:838][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:839][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:839][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:839][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:840][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:840][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:840][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:841][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:859][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:860][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:860][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:860][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:861][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:861][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:870][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:986][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:987][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.27:987][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:013][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:013][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:031][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:041][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:083][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:083][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:084][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:089][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:093][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:093][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:107][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:196][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:197][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:197][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:234][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:256][772]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.29.28:486][776]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.12-12.32.10:175][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.32.10:351][134]LogSavePackage: Save=142.58ms
+[2018.03.12-12.32.10:352][134]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu9B8031534A938B47D1FF379A247EEBA7.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.32.10:387][134]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.32.10:718][144]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.32.10:787][144]LogBlueprint: Error: [Compiler LobbyMenu] This blueprint (self) is not a GameInfoInstance_C, therefore ' Target ' must have a connection.
+[2018.03.12-12.32.10:873][144]LogBlueprint: Warning: [Compiler LobbyMenu] [1735.01] Compile of LobbyMenu failed. 1 Fatal Issue(s) 0 Warning(s) [in 154 ms] (/Game/UI/Lobby/LobbyMenu.LobbyMenu)
+[2018.03.12-12.32.54:005][596]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.12-12.33.26:174][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.33.26:329][529]LogSavePackage: Save=122.21ms
+[2018.03.12-12.33.26:329][529]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu257B010E491C18DB2A90CBA64E449A39.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.33.26:340][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.33.27:309][560]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.33.35:987][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.33.36:169][856]LogSavePackage: Save=138.32ms
+[2018.03.12-12.33.36:169][856]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuEE40CE904789456EBCF98F91D03BA40D.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.33.36:179][856]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.33.53:300][284]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.03.12-12.33.53:307][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:308][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:308][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:308][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:308][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:309][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:309][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:309][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:310][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:310][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:310][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:311][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:311][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:311][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:311][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:312][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:312][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:312][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:312][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:313][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:313][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:313][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:314][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:314][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:314][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:315][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:315][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:315][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:315][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:316][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:316][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:316][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:316][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:317][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:317][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:317][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:318][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:318][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:318][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:318][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:319][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:319][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:319][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:320][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:320][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:320][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:320][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:321][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:321][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:321][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:321][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:322][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:322][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:322][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:328][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:328][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:332][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:333][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:333][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:333][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:333][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:334][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:334][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:334][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:335][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:335][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:335][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:335][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:336][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:336][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:350][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:351][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:351][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:351][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:351][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:352][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:360][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:483][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:483][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:484][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:510][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:510][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:529][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:539][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:545][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:545][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:545][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:550][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:553][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:553][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:568][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:651][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:651][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:651][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:708][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.33.53:708][284]LogVSAccessor: Warning: Couldn't access module table
+[2018.03.12-12.34.36:601][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.34.36:752][488]LogSavePackage: Save=121.57ms
+[2018.03.12-12.34.36:752][488]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu45D62E0C4CC02883E861358836DC44A7.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.34.36:762][488]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.34.37:598][511]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.35.29:915][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.35.30:077][340]LogSavePackage: Save=130.57ms
+[2018.03.12-12.35.30:077][340]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu95417E69423EA7B78BD427AE7DC770CB.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.35.30:088][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.35.35:789][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.35.35:940][548]LogSavePackage: Save=116.17ms
+[2018.03.12-12.35.35:940][548]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenuA7E77DA24F8D00BEF8414FBAF7C2E179.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.35.35:946][548]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.35.36:951][580]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.36.01:144][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.36.01:300][381]LogSavePackage: Save=124.52ms
+[2018.03.12-12.36.01:301][381]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu3F21DE5947C3DAFA0432798A2BF41CBE.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.36.01:312][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.36.07:452][587]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.36.39:730][577]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.36.54:572][ 61]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.36.55:634][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.36.55:794][ 90]LogSavePackage: Save=125.04ms
+[2018.03.12-12.36.55:794][ 90]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu7FF078C04BE32809000BFB9087EEFB08.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.36.55:804][ 90]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.37.04:898][380]LogEditorTransaction: Undo Add Node
+[2018.03.12-12.37.05:209][386]LogEditorTransaction: Undo Delete current selection
+[2018.03.12-12.37.05:906][408]LogEditorTransaction: Undo Create Pin Link
+[2018.03.12-12.37.06:265][416]LogEditorTransaction: Undo Create Pin Link
+[2018.03.12-12.37.06:455][419]LogEditorTransaction: Undo Create Pin Link
+[2018.03.12-12.37.06:811][427]LogEditorTransaction: Undo Move Node
+[2018.03.12-12.37.07:040][431]LogEditorTransaction: Undo Add Node
+[2018.03.12-12.37.07:283][436]LogEditorTransaction: Undo Delete current selection
+[2018.03.12-12.37.07:554][442]LogEditorTransaction: Undo Add Node
+[2018.03.12-12.37.07:823][448]LogEditorTransaction: Undo Delete current selection
+[2018.03.12-12.37.08:064][453]LogEditorTransaction: Undo Create Pin Link
+[2018.03.12-12.37.08:382][461]LogEditorTransaction: Undo Create Pin Link
+[2018.03.12-12.37.08:700][472]LogEditorTransaction: Undo Create Pin Link
+[2018.03.12-12.37.09:213][487]LogEditorTransaction: Undo Create Pin Link
+[2018.03.12-12.37.09:701][501]LogEditorTransaction: Undo Move Node
+[2018.03.12-12.37.10:319][519]LogEditorTransaction: Undo Add Node
+[2018.03.12-12.37.10:862][534]LogEditorTransaction: Undo Delete current selection
+[2018.03.12-12.37.12:164][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.37.12:316][571]LogSavePackage: Save=114.20ms
+[2018.03.12-12.37.12:316][571]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu65FD93F44E77D3A9CD3D85A43728E136.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.37.12:328][571]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.12-12.37.17:760][744]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.37.28:443][ 88]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.12-12.37.29:218][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.12-12.37.29:374][104]LogSavePackage: Save=127.76ms
+[2018.03.12-12.37.29:375][104]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Saved/LobbyMenu01D32A6942EE51CD32DB3797FB39EBF7.tmp' to '../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.12-12.37.29:386][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Desktop/Multiplayer_Test/Multiplayer_Project/Content/UI/Lobby/LobbyMenu.uasset
