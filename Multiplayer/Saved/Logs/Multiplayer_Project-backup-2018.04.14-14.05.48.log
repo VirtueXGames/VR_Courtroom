@@ -1,0 +1,1120 @@
+﻿Log file open, 04/14/18 13:57:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Multiplayer_Project
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1887692183) SRandInit(-1887692183).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.212126
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.14-19.57.40:056][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.14-19.57.40:056][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.14-19.57.40:074][  0]LogInit: Computer: DESKTOP-EKPT9U8
+[2018.04.14-19.57.40:074][  0]LogInit: User: SamuelJones
+[2018.04.14-19.57.40:074][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.14-19.57.40:074][  0]LogInit: High frequency timer resolution =2.240999 MHz
+[2018.04.14-19.57.40:075][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.14-19.57.40:075][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.14-19.57.40:075][  0]LogMemory: Process Physical Memory: 275.26 MB used, 275.26 MB peak
+[2018.04.14-19.57.40:075][  0]LogMemory: Process Virtual Memory: 272.13 MB used, 272.13 MB peak
+[2018.04.14-19.57.40:075][  0]LogMemory: Physical Memory: 3947.66 MB used,  12375.02 MB free, 16322.68 MB total
+[2018.04.14-19.57.40:075][  0]LogMemory: Virtual Memory: 682.64 MB used,  12375.02 MB free, 134217728.00 MB total
+[2018.04.14-19.57.40:330][  0]LogInit: Using OS detected language (en-US).
+[2018.04.14-19.57.40:330][  0]LogInit: Using OS detected locale (en-GB).
+[2018.04.14-19.57.40:333][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.14-19.57.40:870][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.14-19.57.41:258][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.14-19.57.41:316][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 650M' (Feature Level 11_0)
+[2018.04.14-19.57.41:316][  0]LogD3D11RHI:       484/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.14-19.57.41:319][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.14-19.57.41:319][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.14-19.57.41:319][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.14-19.57.41:327][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.14-19.57.41:327][  0]LogD3D11RHI:     GPU DeviceId: 0xfd5 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.14-19.57.41:327][  0]LogWindows: EnumDisplayDevices:
+[2018.04.14-19.57.41:327][  0]LogWindows:    0. 'NVIDIA GeForce GT 650M' (P:1 D:1)
+[2018.04.14-19.57.41:328][  0]LogWindows:    1. 'NVIDIA GeForce GT 650M' (P:0 D:1)
+[2018.04.14-19.57.41:328][  0]LogWindows:    2. 'NVIDIA GeForce GT 650M' (P:0 D:0)
+[2018.04.14-19.57.41:328][  0]LogWindows:    3. 'NVIDIA GeForce GT 650M' (P:0 D:0)
+[2018.04.14-19.57.41:328][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.14-19.57.41:328][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 650M
+[2018.04.14-19.57.41:328][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.14-19.57.41:328][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.14-19.57.41:329][  0]LogRHI: Texture pool is 339 MB (70% of 484 MB)
+[2018.04.14-19.57.41:372][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.14-19.57.41:387][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.14-19.57.41:437][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Intermediate/Shaders/WorkingDirectory/8420/).
+[2018.04.14-19.57.41:437][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel Jones/AppData/Local/Temp/UnrealShaderWorkingDir/E94CD8074441A58CBCED6E86D62A1C48/'.
+[2018.04.14-19.57.41:437][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.14-19.57.42:828][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.14-19.57.42:923][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.14-19.57.43:011][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.14-19.57.43:100][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.14-19.57.43:206][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.14-19.57.43:301][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.14-19.57.43:388][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.14-19.57.43:474][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.14-19.57.43:570][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.14-19.57.43:652][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.14-19.57.43:737][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.14-19.57.43:817][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.14-19.57.43:911][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.14-19.57.44:006][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.14-19.57.44:190][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.14-19.57.44:190][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.14-19.57.44:274][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.14-19.57.44:346][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.14-19.57.44:488][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.14-19.57.44:534][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.14-19.57.44:619][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.14-19.57.44:703][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.14-19.57.44:788][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.14-19.57.44:872][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.14-19.57.44:872][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.14-19.57.45:695][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.14-19.57.45:779][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Samuel Jones/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.14-19.57.45:780][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel Jones/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.14-19.57.45:780][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.14-19.57.45:780][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.14-19.57.45:780][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.14-19.57.45:780][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.14-19.57.45:800][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.14-19.57.45:812][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel Jones/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.14-19.57.45:828][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.14-19.57.45:829][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.14-19.57.45:829][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.14-19.57.45:829][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.14-19.57.46:434][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.14-19.57.47:032][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.14-19.57.47:119][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.14-19.57.47:119][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.14-19.57.47:119][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.14-19.57.47:119][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.14-19.57.47:119][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.14-19.57.47:167][  0]LogNetVersion: Multiplayer_Project , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1516079218)
+[2018.04.14-19.57.47:415][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2018.04.14-19.57.48:198][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.096398 seconds
+[2018.04.14-19.57.48:206][  0]LogUObjectArray: 35877 objects as part of root set at end of initial load.
+[2018.04.14-19.57.48:207][  0]LogUObjectAllocator: 7577640 out of 0 bytes used by permanent object pool.
+[2018.04.14-19.57.48:207][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.14-19.57.52:748][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.14-19.57.52:815][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.14-19.57.54:006][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.14-19.57.54:785][  0]SourceControl: Source control is disabled
+[2018.04.14-19.57.54:785][  0]SourceControl: Source control is disabled
+[2018.04.14-19.57.54:886][  0]SourceControl: Source control is disabled
+[2018.04.14-19.57.54:989][  0]SourceControl: Source control is disabled
+[2018.04.14-19.57.56:427][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.14-19.57.56:945][  0]LogOcInput: OculusInput pre-init called
+[2018.04.14-19.57.57:485][  0]LogEngine: Initializing Engine...
+[2018.04.14-19.57.57:489][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.14-19.57.57:781][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.14-19.57.57:781][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.14-19.57.58:031][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.14-19.57.58:050][  0]LogInit: XAudio2 using 'SONY TV-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.14-19.57.58:065][  0]LogInit: FAudioDevice initialized.
+[2018.04.14-19.57.58:180][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Samuel Jones/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.14-19.57.58:194][  0]LogInit: Texture streaming: Enabled
+[2018.04.14-19.57.58:383][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.14-19.57.58:602][  0]LogInit: Transaction tracking system initialized
+[2018.04.14-19.57.59:184][  0]BlueprintLog: New page: Editor Load
+[2018.04.14-19.58.00:808][  0]LocalizationService: Localization service is disabled
+[2018.04.14-19.58.02:144][  0]LogConsoleResponse: Display: 
+[2018.04.14-19.58.02:398][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.14-19.58.02:398][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.14-19.58.02:398][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.14-19.58.02:888][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/' took 0.02s
+[2018.04.14-19.58.04:518][  0]SourceControl: Source control is disabled
+[2018.04.14-19.58.04:519][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.14-19.58.04:519][  0]LightingResults: New page: Lighting Build
+[2018.04.14-19.58.04:599][  0]MapCheck: New page: Map Check
+[2018.04.14-19.58.04:599][  0]LightingResults: New page: Lighting Build
+[2018.04.14-19.58.04:698][  0]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/UI/MainMenu/HostMenu.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.58.04:760][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Brick_Clay_Old_D'
+[2018.04.14-19.58.04:760][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Brick_Clay_Old_D' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/UI/Lobby/InGame.uasset.
+[2018.04.14-19.58.04:760][  0]LoadErrors: Error: /Game/UI/Lobby/InGame : Can't find file for asset. /Game/StarterContent/Textures/T_Brick_Clay_Old_D
+[2018.04.14-19.58.04:760][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D'
+[2018.04.14-19.58.04:761][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/UI/Lobby/InGame.uasset.
+[2018.04.14-19.58.04:761][  0]LoadErrors: Error: /Game/UI/Lobby/InGame : Can't find file for asset. /Game/StarterContent/Textures/T_Brick_Hewn_Stone_D
+[2018.04.14-19.58.04:761][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Brick_Clay_Old_D'
+[2018.04.14-19.58.04:761][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Brick_Clay_Old_D' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/UI/Lobby/InGame.uasset.
+[2018.04.14-19.58.04:761][  0]LoadErrors: Error: /Game/UI/Lobby/InGame : Can't find file for asset. /Game/StarterContent/Textures/T_Brick_Clay_Old_D
+[2018.04.14-19.58.04:762][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D'
+[2018.04.14-19.58.04:762][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/UI/Lobby/InGame.uasset.
+[2018.04.14-19.58.04:762][  0]LoadErrors: Error: /Game/UI/Lobby/InGame : Can't find file for asset. /Game/StarterContent/Textures/T_Brick_Hewn_Stone_D
+[2018.04.14-19.58.04:762][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Brick_Clay_Old_D'
+[2018.04.14-19.58.04:762][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Brick_Clay_Old_D.T_Brick_Clay_Old_D Referenced by Default__OptionsMenu_C
+[2018.04.14-19.58.04:763][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Brick_Clay_Old_D' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/UI/Lobby/InGame.uasset.
+[2018.04.14-19.58.04:763][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Brick_Clay_Old_D.T_Brick_Clay_Old_D Referenced by Default__OptionsMenu_C
+[2018.04.14-19.58.04:763][  0]LoadErrors: Error: /Game/UI/Lobby/InGame : Can't find file for asset. /Game/StarterContent/Textures/T_Brick_Clay_Old_D
+[2018.04.14-19.58.04:763][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D'
+[2018.04.14-19.58.04:763][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Brick_Hewn_Stone_D.T_Brick_Hewn_Stone_D Referenced by Default__OptionsMenu_C
+[2018.04.14-19.58.04:763][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/UI/Lobby/InGame.uasset.
+[2018.04.14-19.58.04:763][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Brick_Hewn_Stone_D.T_Brick_Hewn_Stone_D Referenced by Default__OptionsMenu_C
+[2018.04.14-19.58.04:763][  0]LoadErrors: Error: /Game/UI/Lobby/InGame : Can't find file for asset. /Game/StarterContent/Textures/T_Brick_Hewn_Stone_D
+[2018.04.14-19.58.04:961][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Brick_Clay_Old_D'
+[2018.04.14-19.58.04:961][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Brick_Clay_Old_D' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/UI/MainMenu/OptionsMenu.uasset.
+[2018.04.14-19.58.04:961][  0]LoadErrors: Error: /Game/UI/MainMenu/OptionsMenu : Can't find file for asset. /Game/StarterContent/Textures/T_Brick_Clay_Old_D
+[2018.04.14-19.58.04:961][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D'
+[2018.04.14-19.58.04:961][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/UI/MainMenu/OptionsMenu.uasset.
+[2018.04.14-19.58.04:961][  0]LoadErrors: Error: /Game/UI/MainMenu/OptionsMenu : Can't find file for asset. /Game/StarterContent/Textures/T_Brick_Hewn_Stone_D
+[2018.04.14-19.58.04:962][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Brick_Clay_Old_D'
+[2018.04.14-19.58.04:962][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Brick_Clay_Old_D' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/UI/MainMenu/OptionsMenu.uasset.
+[2018.04.14-19.58.04:962][  0]LoadErrors: Error: /Game/UI/MainMenu/OptionsMenu : Can't find file for asset. /Game/StarterContent/Textures/T_Brick_Clay_Old_D
+[2018.04.14-19.58.04:962][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D'
+[2018.04.14-19.58.04:962][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/UI/MainMenu/OptionsMenu.uasset.
+[2018.04.14-19.58.04:962][  0]LoadErrors: Error: /Game/UI/MainMenu/OptionsMenu : Can't find file for asset. /Game/StarterContent/Textures/T_Brick_Hewn_Stone_D
+[2018.04.14-19.58.05:192][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.04.14-19.58.05:193][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.14-19.58.05:206][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.14-19.58.05:284][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.686ms to complete.
+[2018.04.14-19.58.05:284][  0]LogFileHelpers: Loading map 'MainMenu' took 0.765
+[2018.04.14-19.58.05:353][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.14-19.58.05:495][  0]LogCollectionManager: Loaded 0 collections in 0.002662 seconds
+[2018.04.14-19.58.05:608][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Saved/Collections/' took 0.01s
+[2018.04.14-19.58.05:608][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Developers/SamuelJones/Collections/' took 0.01s
+[2018.04.14-19.58.05:608][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Collections/' took 0.01s
+[2018.04.14-19.58.05:608][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.14-19.58.05:621][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2365 classes and 522 folders.
+[2018.04.14-19.58.05:740][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.14-19.58.05:805][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.14-19.58.05:878][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.14-19.58.05:974][  0]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.14-19.58.05:978][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.14-19.58.05:991][  0]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.14-19.58.06:148][  0]LogRenderer: Reallocating scene render targets to support 916x632 Format 10 NumSamples 1 (Frame:1).
+[2018.04.14-19.58.06:393][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.14-19.58.06:393][  0]LogLoad: (Engine Initialization) Total time: 30.19 seconds
+[2018.04.14-19.58.06:393][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.14-19.58.06:393][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.14-19.58.06:431][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.14-19.58.07:023][  2]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.04.14-19.58.07:083][  2]LogAssetRegistry: Asset discovery search completed in 19.6890 seconds
+[2018.04.14-19.58.07:086][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.14-19.58.07:086][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000112 seconds (updated 0 objects)
+[2018.04.14-19.58.10:501][205]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.14-19.58.33:827][157]LogTemp: Repeating last play command: Standalone Game
+[2018.04.14-19.58.41:476][562]LogTemp: Repeating last play command: Standalone Game
+[2018.04.14-19.59.21:316][875]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.14-19.59.21:328][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Maps/Arena01.umap' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:448][875]LogLinker: Warning: Can't find file '/Game/InfinityBladeWarriors/Animations/0_BaseAnimBP'
+[2018.04.14-19.59.21:448][875]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWarriors/Animations/0_BaseAnimBP' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Blueprints/Characters/0_Base.uasset.
+[2018.04.14-19.59.21:448][875]LoadErrors: Error: /Game/Blueprints/Characters/0_Base : Can't find file for asset. /Game/InfinityBladeWarriors/Animations/0_BaseAnimBP
+[2018.04.14-19.59.21:450][875]LogLinker: Warning: Can't find file '/Game/InfinityBladeWarriors/Animations/0_BaseAnimBP'
+[2018.04.14-19.59.21:450][875]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWarriors/Animations/0_BaseAnimBP' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Blueprints/Characters/0_Base.uasset.
+[2018.04.14-19.59.21:451][875]LogLinker: Warning: Can't find file '/Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base'
+[2018.04.14-19.59.21:451][875]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Blueprints/Characters/0_Base.uasset.
+[2018.04.14-19.59.21:451][875]LoadErrors: Error: /Game/Blueprints/Characters/0_Base : Can't find file for asset. /Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base
+[2018.04.14-19.59.21:451][875]LogLinker: Warning: Can't find file '/Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base'
+[2018.04.14-19.59.21:452][875]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Blueprints/Characters/0_Base.uasset.
+[2018.04.14-19.59.21:453][875]LogLinker: Warning: Can't find file '/Game/InfinityBladeWarriors/Animations/0_BaseAnimBP'
+[2018.04.14-19.59.21:453][875]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWarriors/Animations/0_BaseAnimBP' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Blueprints/Gameplay/GameplayGM.uasset.
+[2018.04.14-19.59.21:454][875]LoadErrors: Error: /Game/Blueprints/Gameplay/GameplayGM : Can't find file for asset. /Game/InfinityBladeWarriors/Animations/0_BaseAnimBP
+[2018.04.14-19.59.21:454][875]LogLinker: Warning: Can't find file '/Game/InfinityBladeWarriors/Animations/0_BaseAnimBP'
+[2018.04.14-19.59.21:454][875]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWarriors/Animations/0_BaseAnimBP' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Blueprints/Gameplay/GameplayGM.uasset.
+[2018.04.14-19.59.21:454][875]LogLinker: Warning: Can't find file '/Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base'
+[2018.04.14-19.59.21:454][875]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Blueprints/Gameplay/GameplayGM.uasset.
+[2018.04.14-19.59.21:454][875]LoadErrors: Error: /Game/Blueprints/Gameplay/GameplayGM : Can't find file for asset. /Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base
+[2018.04.14-19.59.21:454][875]LogLinker: Warning: Can't find file '/Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base'
+[2018.04.14-19.59.21:455][875]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Blueprints/Gameplay/GameplayGM.uasset.
+[2018.04.14-19.59.21:456][875]LogLinker: Warning: Can't find file '/Game/InfinityBladeWarriors/Animations/0_BaseAnimBP'
+[2018.04.14-19.59.21:456][875]LoadErrors: Failed to load /Game/InfinityBladeWarriors/Animations/0_BaseAnimBP.0_BaseAnimBP_C Referenced by Default__0_Base_C
+[2018.04.14-19.59.21:456][875]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWarriors/Animations/0_BaseAnimBP' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Blueprints/Gameplay/GameplayGM.uasset.
+[2018.04.14-19.59.21:457][875]LogLinker: Warning: Can't find file '/Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base'
+[2018.04.14-19.59.21:457][875]LoadErrors: Failed to load /Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.sk_CharM_Base Referenced by Default__0_Base_C
+[2018.04.14-19.59.21:457][875]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base' while loading ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Blueprints/Gameplay/GameplayGM.uasset.
+[2018.04.14-19.59.21:485][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/VRPawn/Pawn.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:507][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Wood-Pine.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:508][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Textures/VR_Courtroom-Working_Copy/tex/Materials/Main_Doors_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:510][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Textures/VR_Courtroom-Working_Copy/tex/Main_Doors.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:513][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Textures/VR_Courtroom-Working_Copy/tex/Materials/TableTop_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:514][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Textures/VR_Courtroom-Working_Copy/tex/TableTop.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:517][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Textures/VR_Courtroom-Working_Copy/tex/Materials/CARPTTAN_Mat_Inst.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:518][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Textures/VR_Courtroom-Working_Copy/tex/Materials/CARPTTAN_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:524][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Textures/VR_Courtroom-Working_Copy/tex/Carpet_Maps/NormalMap.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:528][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Textures/VR_Courtroom-Working_Copy/tex/Carpet_Maps/SpecularMap.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:531][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Textures/VR_Courtroom-Working_Copy/tex/CARPTTAN.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:536][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Textures/VR_Courtroom-Working_Copy/tex/Materials/Royal_Coat_of_Arms_PNG_Mat_Inst.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:537][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Textures/VR_Courtroom-Working_Copy/tex/Materials/Royal_Coat_of_Arms_PNG_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:540][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Textures/VR_Courtroom-Working_Copy/tex/Royal_Coat_of_Arms_PNG.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:551][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom__Stair_Wal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:553][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Default.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:555][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Back_.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:557][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Panelc.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:561][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Back_Panel.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:566][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Back_Wall_.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:570][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Balance.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:573][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/DefMat_for_rob.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:576][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_blade.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:581][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Blindfold.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:585][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Bracket.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:589][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_111.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:592][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Trim.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:596][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_113.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:599][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_114.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:603][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_122.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:606][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_128.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:611][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_135.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:613][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Wall_001.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:616][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_139.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:618][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/01_-_Defau1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:620][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_14.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:623][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_16.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:628][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_17.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:631][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_18.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:635][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_21.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:639][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_210.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:643][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_211.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:648][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_212.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:651][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_213.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:656][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_214.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:658][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_216.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:661][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_219.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:665][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_22.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:669][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cap_23.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:674][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Ceili.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:676][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Mat_7.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:679][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cente.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:683][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cente1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:687][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cente2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:690][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cente3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:694][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cente4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:699][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cente5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:703][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Center_Cas.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:707][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Centre_Lev.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:709][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Floor.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:713][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Clerks_Ben.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:717][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:721][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:726][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube10.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:731][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube11.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:735][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube12.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:738][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube13.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:743][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube14.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:747][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube15.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:750][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Mat_6.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:753][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube16.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:759][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube17.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:764][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube18.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:768][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube19.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:772][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube1_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:777][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube1_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:781][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:786][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube20.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:791][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube21.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:796][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube22.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:802][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube23.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:807][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube24.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:813][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube25.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:818][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube26.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:820][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Surface-Whitewa.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:825][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:830][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:834][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:839][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube6.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:844][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube7.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:849][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube8.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:854][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube9.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:858][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:863][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_065.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:867][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:872][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_10.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:876][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_11.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:881][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_12.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:885][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_13.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:889][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_14.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:893][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_15.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:898][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_16.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:902][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_17.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:906][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_18.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:910][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_19.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:915][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_1_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:919][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_1_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:923][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:930][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_20.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:935][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_21.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:939][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_22.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:944][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_23.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:949][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_24.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:953][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_25.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:958][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_26.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:962][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_27.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:966][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_28.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:970][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_29.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:974][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_2_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:978][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:984][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_30.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:988][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_31.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:992][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_32.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.21:997][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_33.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:001][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_34.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:005][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_35.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:009][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_36.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:015][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_37.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:019][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_38.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:022][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_39.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:026][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_3_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:031][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_3_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:035][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_40.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:039][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_41.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:044][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_42.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:049][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_43.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:053][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_44.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:057][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_45.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:061][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_46.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:065][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_47.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:068][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_48.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:072][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_49.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:076][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_4_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:081][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_4_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:085][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:089][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_50.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:093][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_51.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:098][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_52.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:103][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_54.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:107][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_55.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:112][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_56.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:116][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_57.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:121][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_58.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:125][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_59.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:131][875]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.14-19.59.22:138][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_5_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:143][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_5_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:148][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_6.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:153][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_60.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:157][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_61.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:162][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_61_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:167][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_62.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:172][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_63.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:176][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_64.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:180][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_8.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:185][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Cube_9.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:191][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Defen.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:197][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Defen1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:201][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Defen2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:205][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Defen3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:210][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Defen4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:214][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Defendant_.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:218][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Desk.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:222][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Dock_Case_.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:226][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Dock_F_Pan.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:230][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_L.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:235][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_L3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:239][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_L4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:244][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_L5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:249][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_L6.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:253][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_L7.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:257][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_L8.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:262][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:266][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R015.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:270][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R016.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:274][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R017.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:279][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R018.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:284][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R019.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:288][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R020.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:292][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:299][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R10.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:303][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R11.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:308][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R12.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:312][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R13.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:316][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R14.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:320][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:325][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:330][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R7.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:335][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_End_R9.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:339][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Extru.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:343][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Extru1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:348][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Extru2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:351][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Extru3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:356][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Extru4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:361][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Extrude.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:365][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Extrude_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:368][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_F_Angle_Pa.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:372][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:376][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:380][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_11.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:382][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/TableTop.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:385][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_12.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:390][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_13.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:395][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_14.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:399][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_15.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:403][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_16.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:407][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_17.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:412][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_18.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:417][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_1_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:421][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_1_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:426][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_20.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:430][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_21.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:433][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Panelb.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:436][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_22.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:441][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_23.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:445][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:450][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_3_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:454][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_3_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:458][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:462][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:467][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_6.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:471][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_7.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:476][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_8.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:480][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Face_9.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:485][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Facia_Back.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:486][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/01_-_Default.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:489][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Facia_Fron.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:492][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Front2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:497][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Front3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:501][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Front_Pane.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:505][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Galle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:509][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Galle1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:514][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Galle2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:519][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Galle3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:523][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Galle4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:528][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Gallery_Pa.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:535][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Gallery_Wa.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:540][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Glass.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:542][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Mat_4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:545][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Glass1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:550][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Glass2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:555][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Glass3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:559][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Glass4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:563][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Glass5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:570][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_hilt.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:574][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Judge.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:577][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Mat_3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:580][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Judges_Wal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:587][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Jury_Wall.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:592][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Jurys_Box.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:597][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Jurys_Box_.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:601][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Lady.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:606][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Line09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:611][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Line10.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:616][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Loft.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:622][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Loft1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:625][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Material__24.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:630][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Loft2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:635][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Loft3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:639][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Lower_Floo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:644][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Lower_Wall.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:648][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Outside.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:650][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Mat_5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:654][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_pommel.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:658][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_R1_Pa.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:663][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_R1_Panel.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:668][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_R1_Panel_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:673][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_R1_Panel_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:677][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_R1_Panel_3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:684][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_R1_Panel_4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:689][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_R1_Panel_5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:694][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_R2_Panel.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:699][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Rectangle0.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:704][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Roof.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:708][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Round38.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:712][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Round39.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:717][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Round40.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:720][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Rounding.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:724][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat018.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:726][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Surface-Textile.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:733][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat019.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:738][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat020.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:743][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat021.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:748][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat022.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:753][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:757][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat11.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:761][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat12.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:766][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat15.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:771][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat16.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:776][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:781][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:786][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat4.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:791][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat5.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:796][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat6.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:801][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat7.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:806][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat8.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:811][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Seat9.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:815][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Side_Panel.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:820][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Stair_Wall.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:824][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Stairs.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:829][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_sub01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:835][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_sub02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:840][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_sub03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:848][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_sub04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:853][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_sword_hand.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:858][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:863][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus107.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:867][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus123.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:871][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus124.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:876][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus126.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:881][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus128.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:886][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus129.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:891][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus139.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:898][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus140.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:903][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus141.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:907][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus142.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:912][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus143.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:917][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus144.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:921][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus145.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:926][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus146.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:930][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus147.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:941][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus148.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:946][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus149.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:952][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus150.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:956][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus151.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:963][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus152.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:967][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus153.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:972][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus154.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:976][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus155.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:981][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus156.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:986][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus157.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:990][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus175.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.22:996][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus207.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.23:002][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus239.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.23:007][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus55.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.23:012][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus56.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.23:016][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus57.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.23:020][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Torus75.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.23:025][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Wall.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.23:030][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Witne.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.23:035][875]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Models/Courtroom_Witness_Wa.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-19.59.30:573][875]LogAIModule: Creating AISystem for world Arena01
+[2018.04.14-19.59.30:658][875]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Maps/Arena01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.14-19.59.30:658][875]LightingResults: New page: Lighting Build
+[2018.04.14-19.59.30:659][875]LoadErrors: New page: Loading map: Arena01.umap
+[2018.04.14-19.59.30:660][875]MapCheck: New page: Map Check
+[2018.04.14-19.59.30:660][875]LightingResults: New page: Lighting Build
+[2018.04.14-19.59.30:795][875]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.14-19.59.30:866][875]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.14-19.59.31:025][875]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 159.003ms to complete.
+[2018.04.14-19.59.31:026][875]LogFileHelpers: Loading map 'Arena01' took 0.369
+[2018.04.14-19.59.33:835][990]LogTemp: Repeating last play command: Standalone Game
+[2018.04.14-20.00.31:901][981]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.14-20.00.33:102][ 12]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.04.14-20.00.34:244][ 12]LogSlate: Took 0.004657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.14-20.00.38:736][196]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Maps/Lobby.umap' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-20.00.38:740][196]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Blueprints/Lobby/LobbyGM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-20.00.38:794][196]LogAIModule: Creating AISystem for world Lobby
+[2018.04.14-20.00.38:826][196]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.14-20.00.38:826][196]LightingResults: New page: Lighting Build
+[2018.04.14-20.00.38:827][196]LoadErrors: New page: Loading map: Lobby.umap
+[2018.04.14-20.00.38:831][196]MapCheck: New page: Map Check
+[2018.04.14-20.00.38:831][196]LightingResults: New page: Lighting Build
+[2018.04.14-20.00.39:004][196]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.14-20.00.39:066][196]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.14-20.00.39:231][196]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 165.367ms to complete.
+[2018.04.14-20.00.39:233][196]LogFileHelpers: Loading map 'Lobby' took 0.407
+[2018.04.14-20.00.44:400][464]LogSlate: Took 0.005058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.14-20.01.00:973][445]LogLinker: Warning: Asset '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Maps/Arena01.umap' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.04.14-20.01.01:521][445]LogAIModule: Creating AISystem for world Arena01
+[2018.04.14-20.01.01:565][445]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Maps/Arena01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.14-20.01.01:565][445]LightingResults: New page: Lighting Build
+[2018.04.14-20.01.01:566][445]LoadErrors: New page: Loading map: Arena01.umap
+[2018.04.14-20.01.01:566][445]MapCheck: New page: Map Check
+[2018.04.14-20.01.01:567][445]LightingResults: New page: Lighting Build
+[2018.04.14-20.01.01:779][445]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.14-20.01.01:840][445]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.14-20.01.02:008][445]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 166.674ms to complete.
+[2018.04.14-20.01.02:009][445]LogFileHelpers: Loading map 'Arena01' took 0.444
+[2018.04.14-20.01.11:252][834]BlueprintLog: New page: Compile Arena01
+[2018.04.14-20.01.13:318][877]LogSavePackage: Save=641.65ms
+[2018.04.14-20.01.13:318][877]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Saved/Arena01DB3077F34CE91777019612902CE33868.tmp' to '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Maps/Arena01.umap'
+[2018.04.14-20.01.13:326][877]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Maps/Arena01.umap
+[2018.04.14-20.01.13:371][877]LogFileHelpers: Saving map 'Arena01' took 0.887
+[2018.04.14-20.01.17:689][ 18]LogSavePackage: Save=657.10ms
+[2018.04.14-20.01.17:689][ 18]LogSavePackage: Moving '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Saved/Arena01E3F1757841BB8BBE8EC3A1B551B26037.tmp' to '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Maps/Arena01.umap'
+[2018.04.14-20.01.17:695][ 18]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Maps/Arena01.umap
+[2018.04.14-20.01.17:736][ 18]LogFileHelpers: Saving map 'Arena01' took 0.907
+[2018.04.14-20.01.18:762][ 67]LogTemp: Repeating last play command: Standalone Game
+[2018.04.14-20.02.15:272][341]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.14-20.02.15:523][342]Cmd: QUIT_EDITOR
+[2018.04.14-20.02.15:559][342]LogExit: Preparing to exit.
+[2018.04.14-20.02.15:919][342]LogDirectoryWatcher: A directory notification for 'C:/Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/' was aborted.
+[2018.04.14-20.02.15:979][342]LogExit: Editor shut down
+[2018.04.14-20.02.15:983][342]LogExit: Transaction tracking system shut down
+[2018.04.14-20.02.16:216][342]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.14-20.02.16:217][342]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/' was aborted.
+[2018.04.14-20.02.16:217][342]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.14-20.02.16:217][342]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.14-20.02.16:217][342]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.14-20.02.16:217][342]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.14-20.02.16:217][342]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.14-20.02.16:332][342]LogExit: Object subsystem successfully closed.
+[2018.04.14-20.02.16:358][342]LogD3D11RHI: Shutdown
+[2018.04.14-20.02.16:358][342]LogD3D11RHI: CleanupD3DDevice
+[2018.04.14-20.02.16:361][342]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.14-20.02.16:387][342]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.04.14-20.02.16:387][342]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.04.14-20.02.16:387][342]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.04.14-20.02.16:387][342]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.04.14-20.02.16:387][342]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.04.14-20.02.16:388][342]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.04.14-20.02.16:388][342]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.04.14-20.02.16:388][342]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.04.14-20.02.16:388][342]LogDirectoryWatcher: A directory notification for 'C:/Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Collections/' was aborted.
+[2018.04.14-20.02.16:388][342]LogDirectoryWatcher: A directory notification for 'C:/Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Content/Developers/SamuelJones/Collections/' was aborted.
+[2018.04.14-20.02.16:388][342]LogDirectoryWatcher: A directory notification for 'C:/Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Saved/Collections/' was aborted.
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.04.14-20.02.16:389][342]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.04.14-20.02.16:390][342]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.04.14-20.02.16:582][342]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.04.14-20.02.16:582][342]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.04.14-20.02.16:582][342]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.04.14-20.02.16:582][342]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.04.14-20.02.16:582][342]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.04.14-20.02.16:582][342]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.04.14-20.02.16:582][342]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.04.14-20.02.16:582][342]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.04.14-20.02.16:582][342]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.04.14-20.02.16:582][342]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.04.14-20.02.16:582][342]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.04.14-20.02.16:583][342]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.04.14-20.02.16:637][342]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.04.14-20.02.16:637][342]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.04.14-20.02.16:637][342]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.04.14-20.02.16:637][342]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.04.14-20.02.16:637][342]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.04.14-20.02.16:637][342]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.04.14-20.02.16:637][342]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.04.14-20.02.16:637][342]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.04.14-20.02.16:637][342]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.04.14-20.02.16:637][342]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module DesktopPlatform (352)
+[2018.04.14-20.02.16:646][342]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.04.14-20.02.16:662][342]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.04.14-20.02.16:662][342]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.04.14-20.02.16:662][342]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.04.14-20.02.16:662][342]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.04.14-20.02.16:662][342]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.04.14-20.02.16:662][342]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2018.04.14-20.02.16:663][342]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2018.04.14-20.02.16:664][342]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2018.04.14-20.02.16:664][342]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2018.04.14-20.02.16:665][342]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2018.04.14-20.02.16:665][342]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2018.04.14-20.02.16:665][342]LogDirectoryWatcher: A directory notification for 'C:/Users/Samuel Jones/Documents/GitHub/VR_Courtroom/Multiplayer_Project/Binaries/Win64' was aborted.
+[2018.04.14-20.02.16:665][342]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (272)
+[2018.04.14-20.02.16:665][342]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (270)
+[2018.04.14-20.02.16:665][342]LogModuleManager: Shutting down and abandoning module PhysXVehicles (268)
+[2018.04.14-20.02.16:665][342]LogModuleManager: Shutting down and abandoning module OculusEditor (266)
+[2018.04.14-20.02.16:665][342]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (264)
+[2018.04.14-20.02.16:665][342]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (262)
+[2018.04.14-20.02.16:665][342]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (260)
+[2018.04.14-20.02.16:665][342]LogModuleManager: Shutting down and abandoning module UdpMessaging (258)
+[2018.04.14-20.02.16:766][342]LogModuleManager: Shutting down and abandoning module TcpMessaging (256)
+[2018.04.14-20.02.16:867][342]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (254)
+[2018.04.14-20.02.16:867][342]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (252)
+[2018.04.14-20.02.16:867][342]LogModuleManager: Shutting down and abandoning module FacialAnimation (250)
+[2018.04.14-20.02.16:867][342]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (248)
+[2018.04.14-20.02.16:867][342]LogModuleManager: Shutting down and abandoning module GraphEditor (247)
+[2018.04.14-20.02.16:867][342]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2018.04.14-20.02.16:868][342]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2018.04.14-20.02.16:869][342]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2018.04.14-20.02.16:869][342]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2018.04.14-20.02.16:869][342]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2018.04.14-20.02.16:870][342]LogModuleManager: Shutting down and abandoning module ImgMedia (234)
+[2018.04.14-20.02.16:870][342]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.04.14-20.02.16:870][342]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.04.14-20.02.16:871][342]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.04.14-20.02.16:871][342]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.04.14-20.02.16:871][342]LogModuleManager: Shutting down and abandoning module Media (225)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.04.14-20.02.16:877][342]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.04.14-20.02.16:881][342]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.04.14-20.02.16:881][342]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.04.14-20.02.16:881][342]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.04.14-20.02.16:881][342]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.04.14-20.02.16:881][342]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.04.14-20.02.16:881][342]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.04.14-20.02.16:881][342]LogModuleManager: Shutting down and abandoning module LevelSequence (174)
+[2018.04.14-20.02.16:881][342]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (172)
+[2018.04.14-20.02.16:882][342]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2018.04.14-20.02.16:882][342]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2018.04.14-20.02.16:882][342]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2018.04.14-20.02.16:882][342]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2018.04.14-20.02.16:882][342]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2018.04.14-20.02.16:882][342]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2018.04.14-20.02.16:882][342]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2018.04.14-20.02.16:882][342]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2018.04.14-20.02.16:882][342]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.04.14-20.02.16:975][342]LogDerivedDataCache: Shutdown
+[2018.04.14-20.02.16:975][342]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2018.04.14-20.02.16:975][342]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2018.04.14-20.02.16:975][342]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2018.04.14-20.02.16:975][342]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2018.04.14-20.02.16:975][342]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2018.04.14-20.02.16:975][342]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (95)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (93)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (91)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (89)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (87)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (85)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (83)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (81)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (79)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (77)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (75)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (73)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2018.04.14-20.02.16:976][342]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2018.04.14-20.02.16:977][342]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2018.04.14-20.02.16:977][342]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2018.04.14-20.02.16:977][342]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2018.04.14-20.02.16:977][342]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2018.04.14-20.02.16:977][342]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2018.04.14-20.02.16:977][342]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.04.14-20.02.16:977][342]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.04.14-20.02.16:977][342]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.04.14-20.02.16:977][342]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.04.14-20.02.16:977][342]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.14-20.02.16:977][342]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.14-20.02.16:977][342]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.14-20.02.16:978][342]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45AF5244-416F-8831-EABA-589BA562C354%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=e84924774c2888b1dc050aa2fec1e71d%7Cab82d8f57509469a8171774633e6e5e6%7C5b5f5390-e609-4ad3-a296-5df869db6483&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.14-20.02.17:002][342]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.14-20.02.17:003][342]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.14-20.02.17:004][342]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.14-20.02.17:004][342]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.14-20.02.17:004][342]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.14-20.02.17:004][342]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.14-20.02.17:004][342]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.14-20.02.17:004][342]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.14-20.02.17:005][342]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.14-20.02.17:005][342]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.14-20.02.17:005][342]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.14-20.02.17:005][342]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.14-20.02.17:005][342]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.14-20.02.17:005][342]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.14-20.02.17:005][342]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.14-20.02.17:005][342]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.14-20.02.17:005][342]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.14-20.02.17:005][342]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.14-20.02.17:006][342]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.14-20.02.17:009][342]LogExit: Exiting.
+[2018.04.14-20.02.17:030][342]Log file closed, 04/14/18 14:02:17
