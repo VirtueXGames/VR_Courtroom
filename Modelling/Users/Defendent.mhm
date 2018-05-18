@@ -1,7 +1,7 @@
 # Written by MakeHuman 1.1.1
 version v1.1.1
 tags Defendent
-camera 52.0 353.5 0.453571275475 0.635369561389 -0.148458887961 1.1125
+camera 27.5 46.0 -0.144006448318 0.992917801614 0.242551169753 2.9
 modifier macrodetails-universal/Muscle 0.653000
 modifier macrodetails/African 0.000000
 modifier macrodetails-proportions/BodyProportions 0.503000
@@ -29,6 +29,7 @@ eyebrows eyebrow010 8261cde8-7ce2-47f3-a7a2-edf459c50887
 eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
 pose standing02.bvh
 clothes male_elegantsuit01 1d2e3843-dda5-40a8-84a0-96666aa681bb
+clothes shoes04 0d753f2e-55f9-4d60-9a78-261f42b494fc
 clothesHideFaces True
 expression attention01.mhpose
 skinMaterial skins/default.mhmat

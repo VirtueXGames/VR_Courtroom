@@ -1,7 +1,7 @@
 # Written by MakeHuman 1.1.1
 version v1.1.1
 tags Prosecutor
-camera 24.0 38.5 0.152292482141 0.511498175449 0.307675558272 0.7375
+camera 15.0 27.5 0.152292482141 0.511498175449 0.307675558272 0.7375
 modifier breast/breast-trans-down|up -0.130000
 modifier macrodetails-universal/Muscle 0.646000
 modifier macrodetails/African 0.054500
@@ -25,8 +25,9 @@ modifier macrodetails-universal/Weight 0.442000
 modifier breast/breast-volume-vert-down|up 0.292000
 hair ponytail01 44e0340e-c7a6-4d22-814c-0632968d2dde
 eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
-clothes Fem_Suit 5f33e5d2-67c2-470c-bf49-37cf1a48a5bd
+pose standing02.bvh
 clothes shoes04 0d753f2e-55f9-4d60-9a78-261f42b494fc
+clothes male_elegantsuit01 1d2e3843-dda5-40a8-84a0-96666aa681bb
 clothesHideFaces True
 skinMaterial skins/default.mhmat
 material ponytail01 44e0340e-c7a6-4d22-814c-0632968d2dde ponytail01.mhmat
