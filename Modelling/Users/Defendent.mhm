@@ -1,0 +1,37 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags Defendent
+camera 52.0 353.5 0.453571275475 0.635369561389 -0.148458887961 1.1125
+modifier macrodetails-universal/Muscle 0.653000
+modifier macrodetails/African 0.000000
+modifier macrodetails-proportions/BodyProportions 0.503000
+modifier macrodetails/Gender 1.000000
+modifier head/head-angle-in|out -0.116000
+modifier macrodetails-height/Height 0.500000
+modifier breast/BreastSize 0.500000
+modifier macrodetails/Age 0.592000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 1.000000
+modifier head/head-fat-decr|incr -0.986000
+modifier head/head-diamond 0.204000
+modifier head/head-age-decr|incr 0.700000
+modifier macrodetails/Caucasian 0.000000
+modifier head/head-triangular 0.163000
+modifier head/head-round 0.177000
+modifier head/head-rectangular 0.551000
+modifier head/head-back-scale-depth-decr|incr -1.000000
+modifier macrodetails-universal/Weight 0.639000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+hair short04 e09bfd91-f83f-4f9a-ba8c-4635cd1ae0d8
+skeleton game_engine.mhskel
+eyebrows eyebrow010 8261cde8-7ce2-47f3-a7a2-edf459c50887
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+pose standing02.bvh
+clothes male_elegantsuit01 1d2e3843-dda5-40a8-84a0-96666aa681bb
+clothesHideFaces True
+expression attention01.mhpose
+skinMaterial skins/default.mhmat
+material short04 e09bfd91-f83f-4f9a-ba8c-4635cd1ae0d8 short04.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+subdivide False

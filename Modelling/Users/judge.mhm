@@ -1,0 +1,34 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags judge
+camera 13.5 28.0 -0.0205071442939 0.82859054202 0.71134736503 0.525
+modifier macrodetails-universal/Muscle 0.468000
+modifier macrodetails/African 0.611000
+modifier macrodetails-proportions/BodyProportions 0.690000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails-height/Height 0.548000
+modifier breast/BreastSize 0.500000
+modifier armslegs/r-hand-fingers-diameter-decr|incr 0.190000
+modifier macrodetails/Age 1.000000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.194500
+modifier head/head-fat-decr|incr -0.428000
+modifier head/head-age-decr|incr 0.048000
+modifier macrodetails/Caucasian 0.194500
+modifier armslegs/r-hand-fingers-distance-decr|incr 0.206000
+modifier macrodetails-universal/Weight 0.786000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+hair afro01 59627022-32e9-4126-9cf1-036d4b9335fc
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+eyebrows eyebrow008 79ea307f-a942-40dd-bf50-bbaa41f02034
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+pose standing02.bvh
+clothes male_elegantsuit01 1d2e3843-dda5-40a8-84a0-96666aa681bb
+clothes shoes04 0d753f2e-55f9-4d60-9a78-261f42b494fc
+clothesHideFaces True
+expression attention01.mhpose
+skinMaterial skins/default.mhmat
+material afro01 59627022-32e9-4126-9cf1-036d4b9335fc afro01.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+subdivide False
